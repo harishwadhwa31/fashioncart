@@ -1,0 +1,9 @@
+# Vercel's default ignore list covers only .env.local and .env.*.local. A plain .env IS
+# uploaded and deployment source is readable, so exclude it explicitly. CHECKOUT_SECRET must
+# arrive as a project environment variable, never as a file in the bundle.
+.env
+.env.production
+.env.*
+
+node_modules
+dist

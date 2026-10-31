@@ -1,0 +1,30 @@
+{
+  "name": "@fashioncart/merchant",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "FashionCart mock merchant storefront. Resumes a signed checkout handoff from the MCP connector, re-prices server-side from the catalog, and runs a mock payment step that handles no payment data.",
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "build": "tsc -p tsconfig.json",
+    "dev": "tsx watch src/main.ts",
+    "smoke": "tsx scripts/smoke.ts",
+    "start": "node dist/main.js",
+    "predeploy": "node scripts/copy-data.mjs",
+    "deploy": "npm run predeploy && vercel deploy --prod",
+    "deploy:preview": "npm run predeploy && vercel deploy"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.0",
+    "@types/node": "^22.10.0",
+    "tsx": "^4.19.2",
+    "typescript": "^5.9.3",
+    "vercel": "^65.9.0"
+  },
+  "engines": {
+    "node": "24.x"
+  }
+}

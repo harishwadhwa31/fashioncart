@@ -1,0 +1,3916 @@
+{
+  "feedVersion": "1.0",
+  "currency": "INR",
+  "locale": "en-IN",
+  "productCount": 60,
+  "products": [
+    {
+      "id": "FC-SHT-001",
+      "name": "Oxford Button-Down Shirt",
+      "brand": "FashionCart",
+      "category": "shirts",
+      "price": 1199,
+      "mrp": 1799,
+      "colours": [
+        {
+          "name": "Sand",
+          "hex": "#D8C7A9"
+        },
+        {
+          "name": "Indigo",
+          "hex": "#33456B"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stockBySize": {
+        "XS": 20,
+        "S": 4,
+        "M": 7,
+        "L": 16,
+        "XL": 3,
+        "XXL": 1
+      },
+      "thumbnailUrl": "/images/FC-SHT-001/thumb.webp",
+      "galleryUrls": [
+        "/images/FC-SHT-001/01.webp",
+        "/images/FC-SHT-001/02.webp",
+        "/images/FC-SHT-001/03.webp",
+        "/images/FC-SHT-001/04.webp"
+      ],
+      "credit": {
+        "source": "generated",
+        "author": "FashionCart demo asset pipeline",
+        "licence": "CC0-1.0",
+        "url": null
+      },
+      "shortDescription": "Solid shirt in breathable cotton oxford, with tonal horn buttons.",
+      "longDescription": "Solid shirt in breathable cotton oxford, with tonal horn buttons. Cut and stitched in a family-run unit in Tiruppur, with a pre-shrunk finish so it holds its shape past the first few washes.",
+      "attributes": {
+        "fabric": "Cotton Oxford",
+        "care": "Dry clean only",
+        "fit": "Slim Fit",
+        "occasion": "Festive",
+        "pattern": "Solid"
+      },
+      "rating": 4.8,
+      "reviewCount": 2411,
+      "memberOnly": false,
+      "tags": [
+        "summer"
+      ]
+    },
+    {
+      "id": "FC-SHT-002",
+      "name": "Linen Resort Shirt",
+      "brand": "FashionCart",
+      "category": "shirts",
+      "price": 1899,
+      "mrp": 2699,
+      "colours": [
+        {
+          "name": "Black",
+          "hex": "#1C1C1E"
+        },
+        {
+          "name": "Sage",
+          "hex": "#9BAE96"
+        },
+        {
+          "name": "Indigo",
+          "hex": "#33456B"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stockBySize": {
+        "XS": 1,
+        "S": 15,
+        "M": 17,
+        "L": 0,
+        "XL": 4,
+        "XXL": 38
+      },
+      "thumbnailUrl": "/images/FC-SHT-002/thumb.webp",
+      "galleryUrls": [
+        "/images/FC-SHT-002/01.webp",
+        "/images/FC-SHT-002/02.webp",
+        "/images/FC-SHT-002/03.webp",
+        "/images/FC-SHT-002/04.webp",
+        "/images/FC-SHT-002/05.webp"
+      ],
+      "credit": {
+        "source": "generated",
+        "author": "FashionCart demo asset pipeline",
+        "licence": "CC0-1.0",
+        "url": null
+      },
+      "shortDescription": "Solid shirt in breathable linen, with tonal horn buttons.",
+      "longDescription": "Solid shirt in breathable linen, with tonal horn buttons. Finished with a soft enzyme wash, which is why it feels broken-in from the first wear.",
+      "attributes": {
+        "fabric": "Linen",
+        "care": "Wipe clean with a dry cloth",
+        "fit": "Slim Fit",
+        "occasion": "Workwear",
+        "pattern": "Solid"
+      },
+      "rating": 3.8,
+      "reviewCount": 377,
+      "memberOnly": false,
+      "tags": [
+        "sustainable",
+        "office-edit",
+        "festive-edit"
+      ]
+    },
+    {
+      "id": "FC-SHT-003",
+      "name": "Chambray Work Shirt",
+      "brand": "FashionCart",
+      "category": "shirts",
+      "price": 3199,
+      "mrp": 4199,
+      "colours": [
+        {
+          "name": "Powder Blue",
+          "hex": "#A9C3D6"
+        },
+        {
+          "name": "Olive",
+          "hex": "#6B6B47"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stockBySize": {
+        "XS": 13,
+        "S": 10,
+        "M": 36,
+        "L": 1,
+        "XL": 1,
+        "XXL": 33
+      },
+      "thumbnailUrl": "/images/FC-SHT-003/thumb.webp",
+      "galleryUrls": [
+        "/images/FC-SHT-003/01.webp",
+        "/images/FC-SHT-003/02.webp",
+        "/images/FC-SHT-003/03.webp"
+      ],
+      "credit": {
+        "source": "generated",
+        "author": "FashionCart demo asset pipeline",
+        "licence": "CC0-1.0",
+        "url": null
+      },
+      "shortDescription": "Striped shirt in cotton chambray, with a single-needle topstitch.",
+      "longDescription": "Striped shirt in cotton chambray, with a single-needle topstitch. Woven on handlooms in Bhagalpur; slight irregularities in the weave are characteristic of the process rather than defects.",
+      "attributes": {
+        "fabric": "Cotton Chambray",
+        "care": "Machine wash cold, tumble dry low",
+        "fit": "Boxy Fit",
+        "occasion": "Everyday",
+        "pattern": "Striped"
+      },
+      "rating": 4.7,
+      "reviewCount": 12,
+      "memberOnly": false,
+      "tags": [
+        "handloom",
+        "summer",
+        "office-edit"
+      ]
+    },
+    {
+      "id": "FC-SHT-004",
+      "name": "Mandarin Collar Shirt",
+      "brand": "FashionCart",
+      "category": "shirts",
+      "price": 2899,
+      "mrp": 3499,
+      "colours": [
+        {
+          "name": "Teal",
+          "hex": "#1F6F6B"
+        },
+        {
+          "name": "Charcoal",
+          "hex": "#3A3A3C"
+        },
+        {
+          "name": "Indigo",
+          "hex": "#33456B"
+        },
+        {
+          "name": "Maroon",
+          "hex": "#6E2639"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stockBySize": {
+        "XS": 0,
+        "S": 35,
+        "M": 8,
+        "L": 11,
+        "XL": 8,
+        "XXL": 20
+      },
+      "thumbnailUrl": "/images/FC-SHT-004/thumb.webp",
+      "galleryUrls": [
+        "/images/FC-SHT-004/01.webp",
+        "/images/FC-SHT-004/02.webp",
+        "/images/FC-SHT-004/03.webp",
+        "/images/FC-SHT-004/04.webp",
+        "/images/FC-SHT-004/05.webp"
+      ],
+      "credit": {
+        "source": "generated",
+        "author": "FashionCart demo asset pipeline",
+        "licence": "CC0-1.0",
+        "url": null
+      },
+      "shortDescription": "Corduroy Cotton shirt cut for everyday wear, finished with a coconut-shell button placket.",
+      "longDescription": "Corduroy Cotton shirt cut for everyday wear, finished with a coconut-shell button placket. Designed in Bengaluru and produced in an independently audited facility in Noida.",
+      "attributes": {
+        "fabric": "Corduroy Cotton",
+        "care": "Dry clean only",
+        "fit": "Boxy Fit",
+        "occasion": "Everyday",
+        "pattern": "Striped"
+      },
+      "rating": 3.9,
+      "reviewCount": 203,
+      "memberOnly": false,
+      "tags": [
+        "limited",
+        "new-in",
+        "office-edit"
+      ]
+    },
+    {
+      "id": "FC-SHT-005",
+      "name": "Printed Camp Shirt",
+      "brand": "FashionCart",
+      "category": "shirts",
+      "price": 2599,
+      "mrp": 3599,
+      "colours": [
+        {
+          "name": "Teal",
+          "hex": "#1F6F6B"
+        },
+        {
+          "name": "Black",
+          "hex": "#1C1C1E"
+        },
+        {
+          "name": "Ivory",
+          "hex": "#F3EFE6"
+        },
+        {
+          "name": "Indigo",
+          "hex": "#33456B"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stockBySize": {
+        "XS": 22,
+        "S": 14,
+        "M": 0,
+        "L": 2,
+        "XL": 2,
+        "XXL": 3
+      },
+      "thumbnailUrl": "/images/FC-SHT-005/thumb.webp",
+      "galleryUrls": [
+        "/images/FC-SHT-005/01.webp",
+        "/images/FC-SHT-005/02.webp",
+        "/images/FC-SHT-005/03.webp",
+        "/images/FC-SHT-005/04.webp"
+      ],
+      "credit": {
+        "source": "generated",
+        "author": "FashionCart demo asset pipeline",
+        "licence": "CC0-1.0",
+        "url": null
+      },
+      "shortDescription": "Printed shirt in cotton chambray, with a reinforced side gusset.",
+      "longDescription": "Printed shirt in cotton chambray, with a reinforced side gusset. Dyed in small batches using low-water azo-free dyes, so colour varies very slightly between production runs.",
+      "attributes": {
+        "fabric": "Cotton Chambray",
+        "care": "Machine wash cold, tumble dry low",
+        "fit": "Slim Fit",
+        "occasion": "Occasion Wear",
+        "pattern": "Printed"
+      },
+      "rating": 3.8,
+      "reviewCount": 864,
+      "memberOnly": false,
+      "tags": [
+        "summer",
+        "handloom"
+      ]
+    },
+    {
+      "id": "FC-SHT-006",
+      "name": "Poplin Slim-Fit Shirt",
+      "brand": "FashionCart",
+      "category": "shirts",
+      "price": 1799,
+      "mrp": 2699,
+      "colours": [
+        {
+          "name": "Indigo",
+          "hex": "#33456B"
+        },
+        {
+          "name": "Maroon",
+          "hex": "#6E2639"
+        },
+        {
+          "name": "Black",
+          "hex": "#1C1C1E"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stockBySize": {
+        "XS": 16,
+        "S": 15,
+        "M": 14,
+        "L": 12,
+        "XL": 24,
+        "XXL": 15
+      },
+      "thumbnailUrl": "/images/FC-SHT-006/thumb.webp",
+      "galleryUrls": [
+        "/images/FC-SHT-006/01.webp",
+        "/images/FC-SHT-006/02.webp",
+        "/images/FC-SHT-006/03.webp",
+        "/images/FC-SHT-006/04.webp",
+        "/images/FC-SHT-006/05.webp"
+      ],
+      "credit": {
+        "source": "pexels",
+        "author": "Pexels contributor",
+        "licence": "Pexels License",
+        "url": "https://www.pexels.com/photo/folded-fabrics-and-scissors-on-a-table-35009339/"
+      },
+      "shortDescription": "Cotton Poplin shirt cut for travel, finished with a curved shirt-tail hem.",
+      "longDescription": "Cotton Poplin shirt cut for travel, finished with a curved shirt-tail hem. Woven on handlooms in Bhagalpur; slight irregularities in the weave are characteristic of the process rather than defects.",
+      "attributes": {
+        "fabric": "Cotton Poplin",
+        "care": "Machine wash cold, tumble dry low",
+        "fit": "Relaxed Fit",
+        "occasion": "Travel",
+        "pattern": "Textured"
+      },
+      "rating": 3.8,
+      "reviewCount": 1290,
+      "memberOnly": false,
+      "tags": [
+        "sustainable",
+        "handloom"
+      ]
+    },
+    {
+      "id": "FC-SHT-007",
+      "name": "Khadi Half-Sleeve Shirt",
+      "brand": "FashionCart",
+      "category": "shirts",
+      "price": 2199,
+      "mrp": 2599,
+      "colours": [
+        {
+          "name": "Powder Blue",
+          "hex": "#A9C3D6"
+        },
+        {
+          "name": "Maroon",
+          "hex": "#6E2639"
+        },
+        {
+          "name": "Sage",
+          "hex": "#9BAE96"
+        },
+        {
+          "name": "Teal",
+          "hex": "#1F6F6B"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stockBySize": {
+        "XS": 1,
+        "S": 32,
+        "M": 0,
+        "L": 33,
+        "XL": 35,
+        "XXL": 0
+      },
+      "thumbnailUrl": "/images/FC-SHT-007/thumb.webp",
+      "galleryUrls": [
+        "/images/FC-SHT-007/01.webp",
+        "/images/FC-SHT-007/02.webp",
+        "/images/FC-SHT-007/03.webp",
+        "/images/FC-SHT-007/04.webp"
+      ],
+      "credit": {
+        "source": "generated",
+        "author": "FashionCart demo asset pipeline",
+        "licence": "CC0-1.0",
+        "url": null
+      },
+      "shortDescription": "Textured shirt in breathable handloom khadi, with a coconut-shell button placket.",
+      "longDescription": "Textured shirt in breathable handloom khadi, with a coconut-shell button placket. Cut and stitched in a family-run unit in Tiruppur, with a pre-shrunk finish so it holds its shape past the first few washes.",
+      "attributes": {
+        "fabric": "Handloom Khadi",
+        "care": "Hand wash separately in cold water",
+        "fit": "Regular Fit",
+        "occasion": "Everyday",
+        "pattern": "Textured"
+      },
+      "rating": 4.5,
+      "reviewCount": 12,
+      "memberOnly": true,
+      "tags": [
+        "office-edit",
+        "festive-edit"
+      ]
+    },
+    {
+      "id": "FC-SHT-008",
+      "name": "Corduroy Overshirt",
+      "brand": "FashionCart",
+      "category": "shirts",
+      "price": 1999,
+      "mrp": 2599,
+      "colours": [
+        {
+          "name": "Indigo",
+          "hex": "#33456B"
+        },
+        {
+          "name": "Olive",
+          "hex": "#6B6B47"
+        },
+        {
+          "name": "Charcoal",
+          "hex": "#3A3A3C"
+        },
+        {
+          "name": "Rust",
+          "hex": "#A4462F"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stockBySize": {
+        "XS": 35,
+        "S": 1,
+        "M": 19,
+        "L": 9,
+        "XL": 3,
+        "XXL": 12
+      },
+      "thumbnailUrl": "/images/FC-SHT-008/thumb.webp",
+      "galleryUrls": [
+        "/images/FC-SHT-008/01.webp",
+        "/images/FC-SHT-008/02.webp",
+        "/images/FC-SHT-008/03.webp"
+      ],
+      "credit": {
+        "source": "generated",
+        "author": "FashionCart demo asset pipeline",
+        "licence": "CC0-1.0",
+        "url": null
+      },
+      "shortDescription": "Textured overshirt in breathable cotton corduroy, with a one-piece back yoke.",
+      "longDescription": "Textured overshirt in breathable cotton corduroy, with a one-piece back yoke. Designed in Bengaluru and produced in an independently audited facility in Noida.",
+      "attributes": {
+        "fabric": "Cotton Corduroy",
+        "care": "Hand wash separately in cold water",
+        "fit": "Relaxed Fit",
+        "occasion": "Weekend",
+        "pattern": "Textured"
+      },
+      "rating": 4.6,
+      "reviewCount": 864,
+      "memberOnly": false,
+      "tags": [
+        "festive-edit"
+      ]
+    },
+    {
+      "id": "FC-SHT-009",
+      "name": "Seersucker Striped Shirt",
+      "brand": "FashionCart",
+      "category": "shirts",
+      "price": 1699,
+      "mrp": 2499,
+      "colours": [
+        {
+          "name": "Rust",
+          "hex": "#A4462F"
+        },
+        {
+          "name": "Marigold",
+          "hex": "#E8A33D"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stockBySize": {
+        "XS": 0,
+        "S": 1,
+        "M": 28,
+        "L": 3,
+        "XL": 5,
+        "XXL": 2
+      },
+      "thumbnailUrl": "/images/FC-SHT-009/thumb.webp",
+      "galleryUrls": [
+        "/images/FC-SHT-009/01.webp",
+        "/images/FC-SHT-009/02.webp",
+        "/images/FC-SHT-009/03.webp"
+      ],
+      "credit": {
+        "source": "pexels",
+        "author": "Pexels contributor",
+        "licence": "Pexels License",
+        "url": "https://www.pexels.com/photo/minimalist-flat-lay-of-white-t-shirt-on-wooden-floor-37704839/"
+      },
+      "shortDescription": "Lightweight cotton seersucker shirt with a reinforced side gusset, built for Indian summers.",
+      "longDescription": "Lightweight cotton seersucker shirt with a reinforced side gusset, built for Indian summers. Dyed in small batches using low-water azo-free dyes, so colour varies very slightly between production runs.",
+      "attributes": {
+        "fabric": "Cotton Seersucker",
+        "care": "Dry clean only",
+        "fit": "Boxy Fit",
+        "occasion": "Everyday",
+        "pattern": "Striped"
+      },
+      "rating": 3.5,
+      "reviewCount": 377,
+      "memberOnly": false,
+      "tags": [
+        "sustainable",
+        "handloom",
+        "summer"
+      ]
+    },
+    {
+      "id": "FC-SHT-010",
+      "name": "Twill Utility Shirt",
+      "brand": "FashionCart",
+      "category": "shirts",
+      "price": 2399,
+      "mrp": 4299,
+      "colours": [
+        {
+          "name": "Sage",
+          "hex": "#9BAE96"
+        },
+        {
+          "name": "Marigold",
+          "hex": "#E8A33D"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stockBySize": {
+        "XS": 29,
+        "S": 7,
+        "M": 2,
+        "L": 6,
+        "XL": 15,
+        "XXL": 0
+      },
+      "thumbnailUrl": "/images/FC-SHT-010/thumb.webp",
+      "galleryUrls": [
+        "/images/FC-SHT-010/01.webp",
+        "/images/FC-SHT-010/02.webp",
+        "/images/FC-SHT-010/03.webp",
+        "/images/FC-SHT-010/04.webp",
+        "/images/FC-SHT-010/05.webp"
+      ],
+      "credit": {
+        "source": "generated",
+        "author": "FashionCart demo asset pipeline",
+        "licence": "CC0-1.0",
+        "url": null
+      },
+      "shortDescription": "Lightweight cotton twill shirt with a coconut-shell button placket, built for Indian summers.",
+      "longDescription": "Lightweight cotton twill shirt with a coconut-shell button placket, built for Indian summers. Woven on handlooms in Bhagalpur; slight irregularities in the weave are characteristic of the process rather than defects.",
+      "attributes": {
+        "fabric": "Cotton Twill",
+        "care": "Machine wash gentle, line dry in shade",
+        "fit": "Regular Fit",
+        "occasion": "Workwear",
+        "pattern": "Striped"
+      },
+      "rating": 3.5,
+      "reviewCount": 141,
+      "memberOnly": false,
+      "tags": [
+        "handloom",
+        "sustainable"
+      ]
+    },
+    {
+      "id": "FC-TRS-001",
+      "name": "Tapered Chino",
+      "brand": "FashionCart",
+      "category": "trousers",
+      "price": 2999,
+      "mrp": 3899,
+      "colours": [
+        {
+          "name": "Charcoal",
+          "hex": "#3A3A3C"
+        },
+        {
+          "name": "Olive",
+          "hex": "#6B6B47"
+        },
+        {
+          "name": "Powder Blue",
+          "hex": "#A9C3D6"
+        },
+        {
+          "name": "Black",
+          "hex": "#1C1C1E"
+        }
+      ],
+      "sizes": [
+        "28",
+        "30",
+        "32",
+        "34",
+        "36",
+        "38"
+      ],
+      "stockBySize": {
+        "28": 30,
+        "30": 7,
+        "32": 34,
+        "34": 12,
+        "36": 26,
+        "38": 3
+      },
+      "thumbnailUrl": "/images/FC-TRS-001/thumb.webp",
+      "galleryUrls": [
+        "/images/FC-TRS-001/01.webp",
+        "/images/FC-TRS-001/02.webp",
+        "/images/FC-TRS-001/03.webp",
+        "/images/FC-TRS-001/04.webp",
+        "/images/FC-TRS-001/05.webp"
+      ],
+      "credit": {
+        "source": "pexels",
+        "author": "Pexels contributor",
+        "licence": "Pexels License",
+        "url": "https://www.pexels.com/photo/folded-fabrics-and-scissors-on-a-table-35009339/"
+      },
+      "shortDescription": "Cotton Twill chino cut for festive dressing, finished with a hidden hook-and-bar closure.",
+      "longDescription": "Cotton Twill chino cut for festive dressing, finished with a hidden hook-and-bar closure. Designed in Bengaluru and produced in an independently audited facility in Noida.",
+      "attributes": {
+        "fabric": "Cotton Twill",
+        "care": "Hand wash separately in cold water",
+        "fit": "Straight Fit",
+        "occasion": "Festive",
+        "pattern": "Striped"
+      },
+      "rating": 3.9,
+      "reviewCount": 58,
+      "memberOnly": false,
+      "tags": [
+        "office-edit",
+        "sustainable",
+        "summer"
+      ]
+    },
+    {
+      "id": "FC-TRS-002",
+      "name": "Pleated Wide-Leg Trouser",
+      "brand": "FashionCart",
+      "category": "trousers",
+      "price": 1899,
+      "mrp": 2999,
+      "colours": [
+        {
+          "name": "Black",
+          "hex": "#1C1C1E"
+        },
+        {
+          "name": "Ivory",
+          "hex": "#F3EFE6"
+        }
+      ],
+      "sizes": [
+        "28",
+        "30",
+        "32",
+        "34",
+        "36",
+        "38"
+      ],
+      "stockBySize": {
+        "28": 36,
+        "30": 33,
+        "32": 31,
+        "34": 15,
+        "36": 0,
+        "38": 0
+      },
+      "thumbnailUrl": "/images/FC-TRS-002/thumb.webp",
+      "galleryUrls": [
+        "/images/FC-TRS-002/01.webp",
+        "/images/FC-TRS-002/02.webp",
+        "/images/FC-TRS-002/03.webp",
+        "/images/FC-TRS-002/04.webp",
+        "/images/FC-TRS-002/05.webp"
+      ],
+      "credit": {
+        "source": "pexels",
+        "author": "Pexels contributor",
+        "licence": "Pexels License",
+        "url": "https://www.pexels.com/photo/trendy-blue-denim-trousers-scattered-on-bed-7444977/"
+      },
+      "shortDescription": "Cotton Jersey trouser cut for everyday wear, finished with a reinforced coin pocket.",
+      "longDescription": "Cotton Jersey trouser cut for everyday wear, finished with a reinforced coin pocket. Cut and stitched in a family-run unit in Tiruppur, with a pre-shrunk finish so it holds its shape past the first few washes.",
+      "attributes": {
+        "fabric": "Cotton Jersey",
+        "care": "Dry clean only",
+        "fit": "Slim Fit",
+        "occasion": "Everyday",
+        "pattern": "Striped"
+      },
+      "rating": 4.0,
+      "reviewCount": 58,
+      "memberOnly": false,
+      "tags": [
+        "festive-edit",
+        "new-in",
+        "limited"
+      ]
+    },
+    {
+      "id": "FC-TRS-003",
+      "name": "Slim Stretch Jean",
+      "brand": "FashionCart",
+      "category": "trousers",
+      "price": 4199,
+      "mrp": 4999,
+      "colours": [
+        {
+          "name": "Teal",
+          "hex": "#1F6F6B"
+        },
+        {
+          "name": "Powder Blue",
+          "hex": "#A9C3D6"
+        },
+        {
+          "name": "Rust",
+          "hex": "#A4462F"
+        },
+        {
+          "name": "Sage",
+          "hex": "#9BAE96"
+        }
+      ],
+      "sizes": [
+        "28",
+        "30",
+        "32",
+        "34",
+        "36",
+        "38"
+      ],
+      "stockBySize": {
+        "28": 29,
+        "30": 3,
+        "32": 17,
+        "34": 17,
+        "36": 0,
+        "38": 39
+      },
+      "thumbnailUrl": "/images/FC-TRS-003/thumb.webp",
+      "galleryUrls": [
+        "/images/FC-TRS-003/01.webp",
+        "/images/FC-TRS-003/02.webp",
+        "/images/FC-TRS-003/03.webp",
+        "/images/FC-TRS-003/04.webp"
+      ],
+      "credit": {
+        "source": "generated",
+        "author": "FashionCart demo asset pipeline",
+        "licence": "CC0-1.0",
+        "url": null
+      },
+      "shortDescription": "A jean in stretch denim, made for weekends.",
+      "longDescription": "A jean in stretch denim, made for weekends. Finished with a soft enzyme wash, which is why it feels broken-in from the first wear.",
+      "attributes": {
+        "fabric": "Stretch Denim",
+        "care": "Dry clean only",
+        "fit": "Tapered Fit",
+        "occasion": "Weekend",
+        "pattern": "Checked"
+      },
+      "rating": 4.8,
+      "reviewCount": 512,
+      "memberOnly": false,
+      "tags": [
+        "festive-edit",
+        "bestseller"
+      ]
+    },
+    {
+      "id": "FC-TRS-004",
+      "name": "Linen Drawstring Trouser",
+      "brand": "FashionCart",
+      "category": "trousers",
+      "price": 1599,
+      "mrp": 2899,
+      "colours": [
+        {
+          "name": "Ivory",
+          "hex": "#F3EFE6"
+        },
+        {
+          "name": "Sand",
+          "hex": "#D8C7A9"
+        },
+        {
+          "name": "Indigo",
+          "hex": "#33456B"
+        }
+      ],
+      "sizes": [
+        "28",
+        "30",
+        "32",
+        "34",
+        "36",
+        "38"
+      ],
+      "stockBySize": {
+        "28": 10,
+        "30": 0,
+        "32": 6,
+        "34": 12,
+        "36": 5,
+        "38": 10
+      },
+      "thumbnailUrl": "/images/FC-TRS-004/thumb.webp",
+      "galleryUrls": [
+        "/images/FC-TRS-004/01.webp",
+        "/images/FC-TRS-004/02.webp",
+        "/images/FC-TRS-004/03.webp",
+        "/images/FC-TRS-004/04.webp",
+        "/images/FC-TRS-004/05.webp"
+      ],
+      "credit": {
+        "source": "pexels",
+        "author": "Pexels contributor",
+        "licence": "Pexels License",
+        "url": "https://www.pexels.com/photo/pillowcases-on-a-table-16805361/"
+      },
+      "shortDescription": "Linen trouser cut for occasion dressing, finished with a self-fabric belt loop.",
+      "longDescription": "Linen trouser cut for occasion dressing, finished with a self-fabric belt loop. Designed in Bengaluru and produced in an independently audited facility in Noida.",
+      "attributes": {
+        "fabric": "Linen",
+        "care": "Dry clean only",
+        "fit": "Tapered Fit",
+        "occasion": "Occasion Wear",
+        "pattern": "Textured"
+      },
+      "rating": 4.8,
+      "reviewCount": 377,
+      "memberOnly": false,
+      "tags": [
+        "handloom",
+        "sustainable",
+        "office-edit"
+      ]
+    },
+    {
+      "id": "FC-TRS-005",
+      "name": "Cargo Utility Pant",
+      "brand": "FashionCart",
+      "category": "trousers",
+      "price": 2399,
+      "mrp": 3799,
+      "colours": [
+        {
+          "name": "Sand",
+          "hex": "#D8C7A9"
+        },
+        {
+          "name": "Marigold",
+          "hex": "#E8A33D"
+        },
+        {
+          "name": "Powder Blue",
+          "hex": "#A9C3D6"
+        },
+        {
+          "name": "Charcoal",
+          "hex": "#3A3A3C"
+        }
+      ],
+      "sizes": [
+        "28",
+        "30",
+        "32",
+        "34",
+        "36",
+        "38"
+      ],
+      "stockBySize": {
+        "28": 0,
+        "30": 10,
+        "32": 0,
+        "34": 24,
+        "36": 12,
+        "38": 34
+      },
+      "thumbnailUrl": "/images/FC-TRS-005/thumb.webp",
+      "galleryUrls": [
+        "/images/FC-TRS-005/01.webp",
+        "/images/FC-TRS-005/02.webp",
+        "/images/FC-TRS-005/03.webp",
+        "/images/FC-TRS-005/04.webp"
+      ],
+      "credit": {
+        "source": "generated",
+        "author": "FashionCart demo asset pipeline",
+        "licence": "CC0-1.0",
+        "url": null
+      },
+      "shortDescription": "A cargo pant in cotton twill, made for travel.",
+      "longDescription": "A cargo pant in cotton twill, made for travel. Cut and stitched in a family-run unit in Tiruppur, with a pre-shrunk finish so it holds its shape past the first few washes.",
+      "attributes": {
+        "fabric": "Cotton Twill",
+        "care": "Machine wash gentle, line dry in shade",
+        "fit": "Straight Fit",
+        "occasion": "Travel",
+        "pattern": "Striped"
+      },
+      "rating": 4.1,
+      "reviewCount": 34,
+      "memberOnly": false,
+      "tags": [
+        "new-in"
+      ]
+    },
+    {
+      "id": "FC-TRS-006",
+      "name": "Wool-Blend Formal Trouser",
+      "brand": "FashionCart",
+      "category": "trousers",
+      "price": 2199,
+      "mrp": 3299,
+      "colours": [
+        {
+          "name": "Maroon",
+          "hex": "#6E2639"
+        },
+        {
+          "name": "Charcoal",
+          "hex": "#3A3A3C"
+        }
+      ],
+      "sizes": [
+        "28",
+        "30",
+        "32",
+        "34",
+        "36",
+        "38"
+      ],
+      "stockBySize": {
+        "28": 3,
+        "30": 3,
+        "32": 30,
+        "34": 6,
+        "36": 12,
+        "38": 38
+      },
+      "thumbnailUrl": "/images/FC-TRS-006/thumb.webp",
+      "galleryUrls": [
+        "/images/FC-TRS-006/01.webp",
+        "/images/FC-TRS-006/02.webp",
+        "/images/FC-TRS-006/03.webp",
+        "/images/FC-TRS-006/04.webp"
+      ],
+      "credit": {
+        "source": "pexels",
+        "author": "Pexels contributor",
+        "licence": "Pexels License",
+        "url": "https://www.pexels.com/photo/person-near-pile-of-clothes-8453412/"
+      },
+      "shortDescription": "Solid trouser in wool blend, with a reinforced coin pocket.",
+      "longDescription": "Solid trouser in wool blend, with a reinforced coin pocket. Finished with a soft enzyme wash, which is why it feels broken-in from the first wear.",
+      "attributes": {
+        "fabric": "Wool Blend",
+        "care": "Hand wash separately in cold water",
+        "fit": "Slim Fit",
+        "occasion": "Weekend",
+        "pattern": "Solid"
+      },
+      "rating": 4.2,
+      "reviewCount": 141,
+      "memberOnly": false,
+      "tags": [
+        "summer"
+      ]
+    },
+    {
+      "id": "FC-TRS-007",
+      "name": "Cotton Jogger",
+      "brand": "FashionCart",
+      "category": "trousers",
+      "price": 2399,
+      "mrp": 3099,
+      "colours": [
+        {
+          "name": "Maroon",
+          "hex": "#6E2639"
+        },
+        {
+          "name": "Charcoal",
+          "hex": "#3A3A3C"
+        },
+        {
+          "name": "Powder Blue",
+          "hex": "#A9C3D6"
+        },
+        {
+          "name": "Black",
+          "hex": "#1C1C1E"
+        }
+      ],
+      "sizes": [
+        "28",
+        "30",
+        "32",
+        "34",
+        "36",
+        "38"
+      ],
+      "stockBySize": {
+        "28": 5,
+        "30": 14,
+        "32": 14,
+        "34": 2,
+        "36": 8,
+        "38": 21
+      },
+      "thumbnailUrl": "/images/FC-TRS-007/thumb.webp",
+      "galleryUrls": [
+        "/images/FC-TRS-007/01.webp",
+        "/images/FC-TRS-007/02.webp",
+        "/images/FC-TRS-007/03.webp",
+        "/images/FC-TRS-007/04.webp",
+        "/images/FC-TRS-007/05.webp"
+      ],
+      "credit": {
+        "source": "pexels",
+        "author": "Pexels contributor",
+        "licence": "Pexels License",
+        "url": "https://www.pexels.com/photo/white-and-blue-towel-on-white-table-9594141/"
+      },
+      "shortDescription": "Cotton Jersey jogger cut for weekends, finished with a curtained waistband.",
+      "longDescription": "Cotton Jersey jogger cut for weekends, finished with a curtained waistband. Designed in Bengaluru and produced in an independently audited facility in Noida.",
+      "attributes": {
+        "fabric": "Cotton Jersey",
+        "care": "Machine wash gentle, line dry in shade",
+        "fit": "Straight Fit",
+        "occasion": "Weekend",
+        "pattern": "Checked"
+      },
+      "rating": 3.9,
+      "reviewCount": 12,
+      "memberOnly": false,
+      "tags": [
+        "handloom",
+        "bestseller"
+      ]
+    },
+    {
+      "id": "FC-TRS-008",
+      "name": "Straight-Fit Denim",
+      "brand": "FashionCart",
+      "category": "trousers",
+      "price": 2199,
+      "mrp": 3499,
+      "colours": [
+        {
+          "name": "Sage",
+          "hex": "#9BAE96"
+        },
+        {
+          "name": "Ivory",
+          "hex": "#F3EFE6"
+        }
+      ],
+      "sizes": [
+        "28",
+        "30",
+        "32",
+        "34",
+        "36",
+        "38"
+      ],
+      "stockBySize": {
+        "28": 0,
+        "30": 0,
+        "32": 0,
+        "34": 0,
+        "36": 0,
+        "38": 0
+      },
+      "thumbnailUrl": "/images/FC-TRS-008/thumb.webp",
+      "galleryUrls": [
+        "/images/FC-TRS-008/01.webp",
+        "/images/FC-TRS-008/02.webp",
+        "/images/FC-TRS-008/03.webp",
+        "/images/FC-TRS-008/04.webp",
+        "/images/FC-TRS-008/05.webp"
+      ],
+      "credit": {
+        "source": "generated",
+        "author": "FashionCart demo asset pipeline",
+        "licence": "CC0-1.0",
+        "url": null
+      },
+      "shortDescription": "Lightweight stretch denim jean with a hidden hook-and-bar closure, built for Indian summers.",
+      "longDescription": "Lightweight stretch denim jean with a hidden hook-and-bar closure, built for Indian summers. Dyed in small batches using low-water azo-free dyes, so colour varies very slightly between production runs.",
+      "attributes": {
+        "fabric": "Stretch Denim",
+        "care": "Machine wash cold, tumble dry low",
+        "fit": "Slim Fit",
+        "occasion": "Everyday",
+        "pattern": "Solid"
+      },
+      "rating": 4.6,
+      "reviewCount": 2411,
+      "memberOnly": false,
+      "tags": [
+        "new-in",
+        "handloom",
+        "bestseller"
+      ]
+    },
+    {
+      "id": "FC-TRS-009",
+      "name": "Cropped Culotte",
+      "brand": "FashionCart",
+      "category": "trousers",
+      "price": 2799,
+      "mrp": 4999,
+      "colours": [
+        {
+          "name": "Sage",
+          "hex": "#9BAE96"
+        },
+        {
+          "name": "Maroon",
+          "hex": "#6E2639"
+        },
+        {
+          "name": "Charcoal",
+          "hex": "#3A3A3C"
+        }
+      ],
+      "sizes": [
+        "28",
+        "30",
+        "32",
+        "34",
+        "36",
+        "38"
+      ],
+      "stockBySize": {
+        "28": 2,
+        "30": 0,
+        "32": 33,
+        "34": 16,
+        "36": 3,
+        "38": 0
+      },
+      "thumbnailUrl": "/images/FC-TRS-009/thumb.webp",
+      "galleryUrls": [
+        "/images/FC-TRS-009/01.webp",
+        "/images/FC-TRS-009/02.webp",
+        "/images/FC-TRS-009/03.webp"
+      ],
+      "credit": {
+        "source": "generated",
+        "author": "FashionCart demo asset pipeline",
+        "licence": "CC0-1.0",
+        "url": null
+      },
+      "shortDescription": "A culotte in linen blend, made for the office.",
+      "longDescription": "A culotte in linen blend, made for the office. Designed in Bengaluru and produced in an independently audited facility in Noida.",
+      "attributes": {
+        "fabric": "Linen Blend",
+        "care": "Machine wash gentle, line dry in shade",
+        "fit": "Straight Fit",
+        "occasion": "Workwear",
+        "pattern": "Solid"
+      },
+      "rating": 4.5,
+      "reviewCount": 1290,
+      "memberOnly": false,
+      "tags": [
+        "limited",
+        "summer"
+      ]
+    },
+    {
+      "id": "FC-TRS-010",
+      "name": "Herringbone Flat-Front Trouser",
+      "brand": "FashionCart",
+      "category": "trousers",
+      "price": 1699,
+      "mrp": 1999,
+      "colours": [
+        {
+          "name": "Powder Blue",
+          "hex": "#A9C3D6"
+        },
+        {
+          "name": "Ivory",
+          "hex": "#F3EFE6"
+        },
+        {
+          "name": "Black",
+          "hex": "#1C1C1E"
+        },
+        {
+          "name": "Teal",
+          "hex": "#1F6F6B"
+        }
+      ],
+      "sizes": [
+        "28",
+        "30",
+        "32",
+        "34",
+        "36",
+        "38"
+      ],
+      "stockBySize": {
+        "28": 31,
+        "30": 0,
+        "32": 33,
+        "34": 19,
+        "36": 24,
+        "38": 28
+      },
+      "thumbnailUrl": "/images/FC-TRS-010/thumb.webp",
+      "galleryUrls": [
+        "/images/FC-TRS-010/01.webp",
+        "/images/FC-TRS-010/02.webp",
+        "/images/FC-TRS-010/03.webp",
+        "/images/FC-TRS-010/04.webp",
+        "/images/FC-TRS-010/05.webp"
+      ],
+      "credit": {
+        "source": "generated",
+        "author": "FashionCart demo asset pipeline",
+        "licence": "CC0-1.0",
+        "url": null
+      },
+      "shortDescription": "Herringbone trouser in wool blend, with a tapered ankle opening.",
+      "longDescription": "Herringbone trouser in wool blend, with a tapered ankle opening. Designed in Bengaluru and produced in an independently audited facility in Noida.",
+      "attributes": {
+        "fabric": "Wool Blend",
+        "care": "Machine wash cold, tumble dry low",
+        "fit": "Wide Leg",
+        "occasion": "Workwear",
+        "pattern": "Herringbone"
+      },
+      "rating": 4.5,
+      "reviewCount": 2411,
+      "memberOnly": true,
+      "tags": [
+        "handloom"
+      ]
+    },
+    {
+      "id": "FC-KUR-001",
+      "name": "Chikankari Cotton Kurta",
+      "brand": "FashionCart",
+      "category": "kurtas",
+      "price": 1499,
+      "mrp": 2399,
+      "colours": [
+        {
+          "name": "Powder Blue",
+          "hex": "#A9C3D6"
+        },
+        {
+          "name": "Teal",
+          "hex": "#1F6F6B"
+        },
+        {
+          "name": "Marigold",
+          "hex": "#E8A33D"
+        },
+        {
+          "name": "Ivory",
+          "hex": "#F3EFE6"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stockBySize": {
+        "XS": 20,
+        "S": 0,
+        "M": 2,
+        "L": 12,
+        "XL": 0,
+        "XXL": 3
+      },
+      "thumbnailUrl": "/images/FC-KUR-001/thumb.webp",
+      "galleryUrls": [
+        "/images/FC-KUR-001/01.webp",
+        "/images/FC-KUR-001/02.webp",
+        "/images/FC-KUR-001/03.webp"
+      ],
+      "credit": {
+        "source": "pexels",
+        "author": "Pexels contributor",
+        "licence": "Pexels License",
+        "url": "https://www.pexels.com/photo/intricate-red-indian-textile-with-embroidery-37975932/"
+      },
+      "shortDescription": "Lightweight cotton voile kurta with a tonal-thread yoke, built for Indian summers.",
+      "longDescription": "Lightweight cotton voile kurta with a tonal-thread yoke, built for Indian summers. Finished with a soft enzyme wash, which is why it feels broken-in from the first wear.",
+      "attributes": {
+        "fabric": "Cotton Voile",
+        "care": "Wipe clean with a dry cloth",
+        "fit": "Relaxed Fit",
+        "occasion": "Workwear",
+        "pattern": "Embroidered"
+      },
+      "rating": 4.2,
+      "reviewCount": 58,
+      "memberOnly": false,
+      "tags": [
+        "summer",
+        "limited"
+      ]
+    },
+    {
+      "id": "FC-KUR-002",
+      "name": "Silk-Blend Bandhgala Kurta",
+      "brand": "FashionCart",
+      "category": "kurtas",
+      "price": 4299,
+      "mrp": 5199,
+      "colours": [
+        {
+          "name": "Ivory",
+          "hex": "#F3EFE6"
+        },
+        {
+          "name": "Indigo",
+          "hex": "#33456B"
+        },
+        {
+          "name": "Powder Blue",
+          "hex": "#A9C3D6"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stockBySize": {
+        "XS": 1,
+        "S": 28,
+        "M": 21,
+        "L": 23,
+        "XL": 22,
+        "XXL": 1
+      },
+      "thumbnailUrl": "/images/FC-KUR-002/thumb.webp",
+      "galleryUrls": [
+        "/images/FC-KUR-002/01.webp",
+        "/images/FC-KUR-002/02.webp",
+        "/images/FC-KUR-002/03.webp"
+      ],
+      "credit": {
+        "source": "pexels",
+        "author": "Pexels contributor",
+        "licence": "Pexels License",
+        "url": "https://www.pexels.com/photo/intricate-indian-textile-with-elephant-embroidery-37975931/"
+      },
+      "shortDescription": "Silk Blend kurta cut for festive dressing, finished with a covered placket.",
+      "longDescription": "Silk Blend kurta cut for festive dressing, finished with a covered placket. Dyed in small batches using low-water azo-free dyes, so colour varies very slightly between production runs.",
+      "attributes": {
+        "fabric": "Silk Blend",
+        "care": "Dry clean only",
+        "fit": "Relaxed Fit",
+        "occasion": "Festive",
+        "pattern": "Checked"
+      },
+      "rating": 3.6,
+      "reviewCount": 203,
+      "memberOnly": false,
+      "tags": [
+        "handloom"
+      ]
+    },
+    {
+      "id": "FC-KUR-003",
+      "name": "Block-Print Anarkali Kurta",
+      "brand": "FashionCart",
+      "category": "kurtas",
+      "price": 1999,
+      "mrp": 2399,
+      "colours": [
+        {
+          "name": "Charcoal",
+          "hex": "#3A3A3C"
+        },
+        {
+          "name": "Indigo",
+          "hex": "#33456B"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stockBySize": {
+        "XS": 38,
+        "S": 33,
+        "M": 39,
+        "L": 11,
+        "XL": 2,
+        "XXL": 1
+      },
+      "thumbnailUrl": "/images/FC-KUR-003/thumb.webp",
+      "galleryUrls": [
+        "/images/FC-KUR-003/01.webp",
+        "/images/FC-KUR-003/02.webp",
+        "/images/FC-KUR-003/03.webp",
+        "/images/FC-KUR-003/04.webp"
+      ],
+      "credit": {
+        "source": "generated",
+        "author": "FashionCart demo asset pipeline",
+        "licence": "CC0-1.0",
+        "url": null
+      },
+      "shortDescription": "Block Print kurta in silk blend, with a tonal-thread yoke.",
+      "longDescription": "Block Print kurta in silk blend, with a tonal-thread yoke. Designed in Bengaluru and produced in an independently audited facility in Noida.",
+      "attributes": {
+        "fabric": "Silk Blend",
+        "care": "Machine wash cold, tumble dry low",
+        "fit": "A-Line",
+        "occasion": "Festive",
+        "pattern": "Block Print"
+      },
+      "rating": 4.1,
+      "reviewCount": 141,
+      "memberOnly": false,
+      "tags": [
+        "new-in",
+        "office-edit",
+        "handloom"
+      ]
+    },
+    {
+      "id": "FC-KUR-004",
+      "name": "Mul Cotton Straight Kurta",
+      "brand": "FashionCart",
+      "category": "kurtas",
+      "price": 1099,
+      "mrp": 1399,
+      "colours": [
+        {
+          "name": "Black",
+          "hex": "#1C1C1E"
+        },
+        {
+          "name": "Rust",
+          "hex": "#A4462F"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stockBySize": {
+        "XS": 38,
+        "S": 24,
+        "M": 22,
+        "L": 17,
+        "XL": 0,
+        "XXL": 25
+      },
+      "thumbnailUrl": "/images/FC-KUR-004/thumb.webp",
+      "galleryUrls": [
+        "/images/FC-KUR-004/01.webp",
+        "/images/FC-KUR-004/02.webp",
+        "/images/FC-KUR-004/03.webp",
+        "/images/FC-KUR-004/04.webp",
+        "/images/FC-KUR-004/05.webp"
+      ],
+      "credit": {
+        "source": "generated",
+        "author": "FashionCart demo asset pipeline",
+        "licence": "CC0-1.0",
+        "url": null
+      },
+      "shortDescription": "Checked kurta in mul cotton, with a wooden button placket.",
+      "longDescription": "Checked kurta in mul cotton, with a wooden button placket. Finished with a soft enzyme wash, which is why it feels broken-in from the first wear.",
+      "attributes": {
+        "fabric": "Mul Cotton",
+        "care": "Dry clean only",
+        "fit": "Relaxed Fit",
+        "occasion": "Weekend",
+        "pattern": "Checked"
+      },
+      "rating": 4.6,
+      "reviewCount": 96,
+      "memberOnly": true,
+      "tags": [
+        "summer",
+        "office-edit",
+        "new-in"
+      ]
+    },
+    {
+      "id": "FC-KUR-005",
+      "name": "Angrakha Cotton Kurta",
+      "brand": "FashionCart",
+      "category": "kurtas",
+      "price": 999,
+      "mrp": 1499,
+      "colours": [
+        {
+          "name": "Teal",
+          "hex": "#1F6F6B"
+        },
+        {
+          "name": "Sage",
+          "hex": "#9BAE96"
+        },
+        {
+          "name": "Powder Blue",
+          "hex": "#A9C3D6"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stockBySize": {
+        "XS": 0,
+        "S": 4,
+        "M": 4,
+        "L": 0,
+        "XL": 40,
+        "XXL": 37
+      },
+      "thumbnailUrl": "/images/FC-KUR-005/thumb.webp",
+      "galleryUrls": [
+        "/images/FC-KUR-005/01.webp",
+        "/images/FC-KUR-005/02.webp",
+        "/images/FC-KUR-005/03.webp",
+        "/images/FC-KUR-005/04.webp"
+      ],
+      "credit": {
+        "source": "pexels",
+        "author": "Pexels contributor",
+        "licence": "Pexels License",
+        "url": "https://www.pexels.com/photo/pink-and-gold-saree-dress-in-close-up-photography-8710793/"
+      },
+      "shortDescription": "A kurta in mul cotton, made for travel.",
+      "longDescription": "A kurta in mul cotton, made for travel. Finished with a soft enzyme wash, which is why it feels broken-in from the first wear.",
+      "attributes": {
+        "fabric": "Mul Cotton",
+        "care": "Wipe clean with a dry cloth",
+        "fit": "Relaxed Fit",
+        "occasion": "Travel",
+        "pattern": "Solid"
+      },
+      "rating": 4.3,
+      "reviewCount": 2411,
+      "memberOnly": false,
+      "tags": [
+        "new-in",
+        "bestseller"
+      ]
+    },
+    {
+      "id": "FC-KUR-006",
+      "name": "Ikat Weave Kurta",
+      "brand": "FashionCart",
+      "category": "kurtas",
+      "price": 3299,
+      "mrp": 5899,
+      "colours": [
+        {
+          "name": "Sage",
+          "hex": "#9BAE96"
+        },
+        {
+          "name": "Charcoal",
+          "hex": "#3A3A3C"
+        },
+        {
+          "name": "Ivory",
+          "hex": "#F3EFE6"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stockBySize": {
+        "XS": 12,
+        "S": 3,
+        "M": 35,
+        "L": 2,
+        "XL": 7,
+        "XXL": 7
+      },
+      "thumbnailUrl": "/images/FC-KUR-006/thumb.webp",
+      "galleryUrls": [
+        "/images/FC-KUR-006/01.webp",
+        "/images/FC-KUR-006/02.webp",
+        "/images/FC-KUR-006/03.webp",
+        "/images/FC-KUR-006/04.webp"
+      ],
+      "credit": {
+        "source": "pexels",
+        "author": "Pexels contributor",
+        "licence": "Pexels License",
+        "url": "https://www.pexels.com/photo/intricate-details-of-traditional-indian-bridal-lehenga-33101418/"
+      },
+      "shortDescription": "A kurta in handloom cotton, made for occasion dressing.",
+      "longDescription": "A kurta in handloom cotton, made for occasion dressing. Finished with a soft enzyme wash, which is why it feels broken-in from the first wear.",
+      "attributes": {
+        "fabric": "Handloom Cotton",
+        "care": "Dry clean only",
+        "fit": "Relaxed Fit",
+        "occasion": "Occasion Wear",
+        "pattern": "Ikat"
+      },
+      "rating": 4.6,
+      "reviewCount": 58,
+      "memberOnly": false,
+      "tags": [
+        "new-in"
+      ]
+    },
+    {
+      "id": "FC-KUR-007",
+      "name": "Bandhani Print Kurta",
+      "brand": "FashionCart",
+      "category": "kurtas",
+      "price": 2299,
+      "mrp": 2799,
+      "colours": [
+        {
+          "name": "Rust",
+          "hex": "#A4462F"
+        },
+        {
+          "name": "Ivory",
+          "hex": "#F3EFE6"
+        },
+        {
+          "name": "Maroon",
+          "hex": "#6E2639"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stockBySize": {
+        "XS": 10,
+        "S": 11,
+        "M": 12,
+        "L": 0,
+        "XL": 6,
+        "XXL": 0
+      },
+      "thumbnailUrl": "/images/FC-KUR-007/thumb.webp",
+      "galleryUrls": [
+        "/images/FC-KUR-007/01.webp",
+        "/images/FC-KUR-007/02.webp",
+        "/images/FC-KUR-007/03.webp",
+        "/images/FC-KUR-007/04.webp",
+        "/images/FC-KUR-007/05.webp"
+      ],
+      "credit": {
+        "source": "pexels",
+        "author": "Pexels contributor",
+        "licence": "Pexels License",
+        "url": "https://www.pexels.com/photo/floral-pattern-on-pennant-12082995/"
+      },
+      "shortDescription": "A kurta in cotton voile, made for everyday wear.",
+      "longDescription": "A kurta in cotton voile, made for everyday wear. Dyed in small batches using low-water azo-free dyes, so colour varies very slightly between production runs.",
+      "attributes": {
+        "fabric": "Cotton Voile",
+        "care": "Wipe clean with a dry cloth",
+        "fit": "A-Line",
+        "occasion": "Everyday",
+        "pattern": "Bandhani"
+      },
+      "rating": 4.2,
+      "reviewCount": 96,
+      "memberOnly": false,
+      "tags": [
+        "festive-edit",
+        "bestseller",
+        "summer"
+      ]
+    },
+    {
+      "id": "FC-KUR-008",
+      "name": "Linen Nehru Kurta",
+      "brand": "FashionCart",
+      "category": "kurtas",
+      "price": 2699,
+      "mrp": 4299,
+      "colours": [
+        {
+          "name": "Marigold",
+          "hex": "#E8A33D"
+        },
+        {
+          "name": "Maroon",
+          "hex": "#6E2639"
+        },
+        {
+          "name": "Charcoal",
+          "hex": "#3A3A3C"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stockBySize": {
+        "XS": 1,
+        "S": 10,
+        "M": 40,
+        "L": 38,
+        "XL": 37,
+        "XXL": 29
+      },
+      "thumbnailUrl": "/images/FC-KUR-008/thumb.webp",
+      "galleryUrls": [
+        "/images/FC-KUR-008/01.webp",
+        "/images/FC-KUR-008/02.webp",
+        "/images/FC-KUR-008/03.webp",
+        "/images/FC-KUR-008/04.webp",
+        "/images/FC-KUR-008/05.webp"
+      ],
+      "credit": {
+        "source": "generated",
+        "author": "FashionCart demo asset pipeline",
+        "licence": "CC0-1.0",
+        "url": null
+      },
+      "shortDescription": "Solid kurta in breathable linen, with a contrast piping at the neckline.",
+      "longDescription": "Solid kurta in breathable linen, with a contrast piping at the neckline. Designed in Bengaluru and produced in an independently audited facility in Noida.",
+      "attributes": {
+        "fabric": "Linen",
+        "care": "Machine wash cold, tumble dry low",
+        "fit": "Relaxed Fit",
+        "occasion": "Everyday",
+        "pattern": "Solid"
+      },
+      "rating": 3.8,
+      "reviewCount": 2411,
+      "memberOnly": false,
+      "tags": [
+        "sustainable",
+        "new-in"
+      ]
+    },
+    {
+      "id": "FC-KUR-009",
+      "name": "Zari Border Festive Kurta",
+      "brand": "FashionCart",
+      "category": "kurtas",
+      "price": 1399,
+      "mrp": 1799,
+      "colours": [
+        {
+          "name": "Rust",
+          "hex": "#A4462F"
+        },
+        {
+          "name": "Powder Blue",
+          "hex": "#A9C3D6"
+        },
+        {
+          "name": "Charcoal",
+          "hex": "#3A3A3C"
+        },
+        {
+          "name": "Ivory",
+          "hex": "#F3EFE6"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stockBySize": {
+        "XS": 8,
+        "S": 33,
+        "M": 3,
+        "L": 34,
+        "XL": 28,
+        "XXL": 0
+      },
+      "thumbnailUrl": "/images/FC-KUR-009/thumb.webp",
+      "galleryUrls": [
+        "/images/FC-KUR-009/01.webp",
+        "/images/FC-KUR-009/02.webp",
+        "/images/FC-KUR-009/03.webp",
+        "/images/FC-KUR-009/04.webp"
+      ],
+      "credit": {
+        "source": "pexels",
+        "author": "Pexels contributor",
+        "licence": "Pexels License",
+        "url": "https://www.pexels.com/photo/green-and-yellow-flowers-on-woven-plate-6167463/"
+      },
+      "shortDescription": "Linen kurta cut for weekends, finished with a hand-finished side slit.",
+      "longDescription": "Linen kurta cut for weekends, finished with a hand-finished side slit. Dyed in small batches using low-water azo-free dyes, so colour varies very slightly between production runs.",
+      "attributes": {
+        "fabric": "Linen",
+        "care": "Machine wash gentle, line dry in shade",
+        "fit": "Relaxed Fit",
+        "occasion": "Weekend",
+        "pattern": "Embroidered"
+      },
+      "rating": 3.6,
+      "reviewCount": 2411,
+      "memberOnly": false,
+      "tags": [
+        "summer"
+      ]
+    },
+    {
+      "id": "FC-KUR-010",
+      "name": "Handloom Khadi Kurta",
+      "brand": "FashionCart",
+      "category": "kurtas",
+      "price": 1599,
+      "mrp": 2399,
+      "colours": [
+        {
+          "name": "Charcoal",
+          "hex": "#3A3A3C"
+        },
+        {
+          "name": "Powder Blue",
+          "hex": "#A9C3D6"
+        },
+        {
+          "name": "Teal",
+          "hex": "#1F6F6B"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stockBySize": {
+        "XS": 11,
+        "S": 0,
+        "M": 0,
+        "L": 3,
+        "XL": 19,
+        "XXL": 0
+      },
+      "thumbnailUrl": "/images/FC-KUR-010/thumb.webp",
+      "galleryUrls": [
+        "/images/FC-KUR-010/01.webp",
+        "/images/FC-KUR-010/02.webp",
+        "/images/FC-KUR-010/03.webp",
+        "/images/FC-KUR-010/04.webp",
+        "/images/FC-KUR-010/05.webp"
+      ],
+      "credit": {
+        "source": "pexels",
+        "author": "Pexels contributor",
+        "licence": "Pexels License",
+        "url": "https://www.pexels.com/photo/a-red-and-gold-headscarf-12947899/"
+      },
+      "shortDescription": "Solid kurta in handloom khadi, with a wooden button placket.",
+      "longDescription": "Solid kurta in handloom khadi, with a wooden button placket. Finished with a soft enzyme wash, which is why it feels broken-in from the first wear.",
+      "attributes": {
+        "fabric": "Handloom Khadi",
+        "care": "Machine wash gentle, line dry in shade",
+        "fit": "Relaxed Fit",
+        "occasion": "Everyday",
+        "pattern": "Solid"
+      },
+      "rating": 4.7,
+      "reviewCount": 377,
+      "memberOnly": true,
+      "tags": [
+        "sustainable"
+      ]
+    },
+    {
+      "id": "FC-DRS-001",
+      "name": "Tiered Cotton Midi Dress",
+      "brand": "FashionCart",
+      "category": "dresses",
+      "price": 2699,
+      "mrp": 3499,
+      "colours": [
+        {
+          "name": "Olive",
+          "hex": "#6B6B47"
+        },
+        {
+          "name": "Charcoal",
+          "hex": "#3A3A3C"
+        },
+        {
+          "name": "Black",
+          "hex": "#1C1C1E"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stockBySize": {
+        "XS": 30,
+        "S": 20,
+        "M": 33,
+        "L": 32,
+        "XL": 15,
+        "XXL": 12
+      },
+      "thumbnailUrl": "/images/FC-DRS-001/thumb.webp",
+      "galleryUrls": [
+        "/images/FC-DRS-001/01.webp",
+        "/images/FC-DRS-001/02.webp",
+        "/images/FC-DRS-001/03.webp",
+        "/images/FC-DRS-001/04.webp"
+      ],
+      "credit": {
+        "source": "pexels",
+        "author": "Pexels contributor",
+        "licence": "Pexels License",
+        "url": "https://www.pexels.com/photo/black-clothes-and-gold-earrings-7383102/"
+      },
+      "shortDescription": "Textured dress in cotton poplin, with a self-tie waist.",
+      "longDescription": "Textured dress in cotton poplin, with a self-tie waist. Dyed in small batches using low-water azo-free dyes, so colour varies very slightly between production runs.",
+      "attributes": {
+        "fabric": "Cotton Poplin",
+        "care": "Machine wash gentle, line dry in shade",
+        "fit": "Bodycon",
+        "occasion": "Occasion Wear",
+        "pattern": "Textured"
+      },
+      "rating": 4.1,
+      "reviewCount": 96,
+      "memberOnly": false,
+      "tags": [
+        "bestseller"
+      ]
+    },
+    {
+      "id": "FC-DRS-002",
+      "name": "Wrap Georgette Dress",
+      "brand": "FashionCart",
+      "category": "dresses",
+      "price": 2999,
+      "mrp": 3599,
+      "colours": [
+        {
+          "name": "Maroon",
+          "hex": "#6E2639"
+        },
+        {
+          "name": "Sand",
+          "hex": "#D8C7A9"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stockBySize": {
+        "XS": 18,
+        "S": 0,
+        "M": 8,
+        "L": 30,
+        "XL": 18,
+        "XXL": 24
+      },
+      "thumbnailUrl": "/images/FC-DRS-002/thumb.webp",
+      "galleryUrls": [
+        "/images/FC-DRS-002/01.webp",
+        "/images/FC-DRS-002/02.webp",
+        "/images/FC-DRS-002/03.webp",
+        "/images/FC-DRS-002/04.webp",
+        "/images/FC-DRS-002/05.webp"
+      ],
+      "credit": {
+        "source": "generated",
+        "author": "FashionCart demo asset pipeline",
+        "licence": "CC0-1.0",
+        "url": null
+      },
+      "shortDescription": "A dress in georgette, made for occasion dressing.",
+      "longDescription": "A dress in georgette, made for occasion dressing. Woven on handlooms in Bhagalpur; slight irregularities in the weave are characteristic of the process rather than defects.",
+      "attributes": {
+        "fabric": "Georgette",
+        "care": "Dry clean only",
+        "fit": "Bodycon",
+        "occasion": "Occasion Wear",
+        "pattern": "Textured"
+      },
+      "rating": 4.8,
+      "reviewCount": 96,
+      "memberOnly": false,
+      "tags": [
+        "bestseller"
+      ]
+    },
+    {
+      "id": "FC-DRS-003",
+      "name": "Floral Maxi Dress",
+      "brand": "FashionCart",
+      "category": "dresses",
+      "price": 2899,
+      "mrp": 3799,
+      "colours": [
+        {
+          "name": "Charcoal",
+          "hex": "#3A3A3C"
+        },
+        {
+          "name": "Powder Blue",
+          "hex": "#A9C3D6"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stockBySize": {
+        "XS": 10,
+        "S": 28,
+        "M": 17,
+        "L": 33,
+        "XL": 20,
+        "XXL": 3
+      },
+      "thumbnailUrl": "/images/FC-DRS-003/thumb.webp",
+      "galleryUrls": [
+        "/images/FC-DRS-003/01.webp",
+        "/images/FC-DRS-003/02.webp",
+        "/images/FC-DRS-003/03.webp"
+      ],
+      "credit": {
+        "source": "generated",
+        "author": "FashionCart demo asset pipeline",
+        "licence": "CC0-1.0",
+        "url": null
+      },
+      "shortDescription": "Floral dress in cotton poplin, with a lined bodice.",
+      "longDescription": "Floral dress in cotton poplin, with a lined bodice. Designed in Bengaluru and produced in an independently audited facility in Noida.",
+      "attributes": {
+        "fabric": "Cotton Poplin",
+        "care": "Dry clean only",
+        "fit": "Relaxed Fit",
+        "occasion": "Everyday",
+        "pattern": "Floral"
+      },
+      "rating": 4.5,
+      "reviewCount": 141,
+      "memberOnly": false,
+      "tags": [
+        "new-in",
+        "festive-edit"
+      ]
+    },
+    {
+      "id": "FC-DRS-004",
+      "name": "Linen Shirt Dress",
+      "brand": "FashionCart",
+      "category": "dresses",
+      "price": 3599,
+      "mrp": 6499,
+      "colours": [
+        {
+          "name": "Teal",
+          "hex": "#1F6F6B"
+        },
+        {
+          "name": "Ivory",
+          "hex": "#F3EFE6"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stockBySize": {
+        "XS": 3,
+        "S": 15,
+        "M": 21,
+        "L": 19,
+        "XL": 3,
+        "XXL": 40
+      },
+      "thumbnailUrl": "/images/FC-DRS-004/thumb.webp",
+      "galleryUrls": [
+        "/images/FC-DRS-004/01.webp",
+        "/images/FC-DRS-004/02.webp",
+        "/images/FC-DRS-004/03.webp",
+        "/images/FC-DRS-004/04.webp",
+        "/images/FC-DRS-004/05.webp"
+      ],
+      "credit": {
+        "source": "generated",
+        "author": "FashionCart demo asset pipeline",
+        "licence": "CC0-1.0",
+        "url": null
+      },
+      "shortDescription": "Linen dress cut for everyday wear, finished with a self-tie waist.",
+      "longDescription": "Linen dress cut for everyday wear, finished with a self-tie waist. Dyed in small batches using low-water azo-free dyes, so colour varies very slightly between production runs.",
+      "attributes": {
+        "fabric": "Linen",
+        "care": "Dry clean only",
+        "fit": "Bodycon",
+        "occasion": "Everyday",
+        "pattern": "Textured"
+      },
+      "rating": 3.8,
+      "reviewCount": 203,
+      "memberOnly": false,
+      "tags": [
+        "new-in",
+        "sustainable"
+      ]
+    },
+    {
+      "id": "FC-DRS-005",
+      "name": "A-Line Kalamkari Dress",
+      "brand": "FashionCart",
+      "category": "dresses",
+      "price": 2099,
+      "mrp": 2699,
+      "colours": [
+        {
+          "name": "Ivory",
+          "hex": "#F3EFE6"
+        },
+        {
+          "name": "Teal",
+          "hex": "#1F6F6B"
+        },
+        {
+          "name": "Charcoal",
+          "hex": "#3A3A3C"
+        },
+        {
+          "name": "Indigo",
+          "hex": "#33456B"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stockBySize": {
+        "XS": 22,
+        "S": 3,
+        "M": 24,
+        "L": 2,
+        "XL": 2,
+        "XXL": 0
+      },
+      "thumbnailUrl": "/images/FC-DRS-005/thumb.webp",
+      "galleryUrls": [
+        "/images/FC-DRS-005/01.webp",
+        "/images/FC-DRS-005/02.webp",
+        "/images/FC-DRS-005/03.webp",
+        "/images/FC-DRS-005/04.webp"
+      ],
+      "credit": {
+        "source": "pexels",
+        "author": "Pexels contributor",
+        "licence": "Pexels License",
+        "url": "https://www.pexels.com/photo/dress-in-wardrobe-18984479/"
+      },
+      "shortDescription": "A dress in cotton poplin, made for everyday wear.",
+      "longDescription": "A dress in cotton poplin, made for everyday wear. Cut and stitched in a family-run unit in Tiruppur, with a pre-shrunk finish so it holds its shape past the first few washes.",
+      "attributes": {
+        "fabric": "Cotton Poplin",
+        "care": "Machine wash gentle, line dry in shade",
+        "fit": "Regular Fit",
+        "occasion": "Everyday",
+        "pattern": "Hand Painted"
+      },
+      "rating": 4.8,
+      "reviewCount": 58,
+      "memberOnly": false,
+      "tags": [
+        "office-edit",
+        "sustainable",
+        "bestseller"
+      ]
+    },
+    {
+      "id": "FC-DRS-006",
+      "name": "Smocked Bodice Sundress",
+      "brand": "FashionCart",
+      "category": "dresses",
+      "price": 2999,
+      "mrp": 3899,
+      "colours": [
+        {
+          "name": "Sand",
+          "hex": "#D8C7A9"
+        },
+        {
+          "name": "Charcoal",
+          "hex": "#3A3A3C"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stockBySize": {
+        "XS": 15,
+        "S": 2,
+        "M": 18,
+        "L": 0,
+        "XL": 21,
+        "XXL": 22
+      },
+      "thumbnailUrl": "/images/FC-DRS-006/thumb.webp",
+      "galleryUrls": [
+        "/images/FC-DRS-006/01.webp",
+        "/images/FC-DRS-006/02.webp",
+        "/images/FC-DRS-006/03.webp"
+      ],
+      "credit": {
+        "source": "pexels",
+        "author": "Pexels contributor",
+        "licence": "Pexels License",
+        "url": "https://www.pexels.com/photo/stylish-clothes-on-the-bed-9788969/"
+      },
+      "shortDescription": "Linen sundress cut for occasion dressing, finished with a bias-cut yoke.",
+      "longDescription": "Linen sundress cut for occasion dressing, finished with a bias-cut yoke. Finished with a soft enzyme wash, which is why it feels broken-in from the first wear.",
+      "attributes": {
+        "fabric": "Linen",
+        "care": "Machine wash gentle, line dry in shade",
+        "fit": "Regular Fit",
+        "occasion": "Occasion Wear",
+        "pattern": "Solid"
+      },
+      "rating": 3.8,
+      "reviewCount": 141,
+      "memberOnly": false,
+      "tags": [
+        "bestseller",
+        "office-edit"
+      ]
+    },
+    {
+      "id": "FC-DRS-007",
+      "name": "Pleated Satin Slip Dress",
+      "brand": "FashionCart",
+      "category": "dresses",
+      "price": 1699,
+      "mrp": 2699,
+      "colours": [
+        {
+          "name": "Black",
+          "hex": "#1C1C1E"
+        },
+        {
+          "name": "Marigold",
+          "hex": "#E8A33D"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stockBySize": {
+        "XS": 0,
+        "S": 4,
+        "M": 22,
+        "L": 39,
+        "XL": 31,
+        "XXL": 21
+      },
+      "thumbnailUrl": "/images/FC-DRS-007/thumb.webp",
+      "galleryUrls": [
+        "/images/FC-DRS-007/01.webp",
+        "/images/FC-DRS-007/02.webp",
+        "/images/FC-DRS-007/03.webp"
+      ],
+      "credit": {
+        "source": "generated",
+        "author": "FashionCart demo asset pipeline",
+        "licence": "CC0-1.0",
+        "url": null
+      },
+      "shortDescription": "Checked dress in satin weave, with a hand-finished hem.",
+      "longDescription": "Checked dress in satin weave, with a hand-finished hem. Cut and stitched in a family-run unit in Tiruppur, with a pre-shrunk finish so it holds its shape past the first few washes.",
+      "attributes": {
+        "fabric": "Satin Weave",
+        "care": "Machine wash gentle, line dry in shade",
+        "fit": "Regular Fit",
+        "occasion": "Occasion Wear",
+        "pattern": "Checked"
+      },
+      "rating": 4.2,
+      "reviewCount": 34,
+      "memberOnly": false,
+      "tags": [
+        "sustainable",
+        "office-edit"
+      ]
+    },
+    {
+      "id": "FC-DRS-008",
+      "name": "Ruched Jersey Dress",
+      "brand": "FashionCart",
+      "category": "dresses",
+      "price": 2899,
+      "mrp": 3499,
+      "colours": [
+        {
+          "name": "Marigold",
+          "hex": "#E8A33D"
+        },
+        {
+          "name": "Powder Blue",
+          "hex": "#A9C3D6"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stockBySize": {
+        "XS": 16,
+        "S": 33,
+        "M": 19,
+        "L": 17,
+        "XL": 7,
+        "XXL": 27
+      },
+      "thumbnailUrl": "/images/FC-DRS-008/thumb.webp",
+      "galleryUrls": [
+        "/images/FC-DRS-008/01.webp",
+        "/images/FC-DRS-008/02.webp",
+        "/images/FC-DRS-008/03.webp",
+        "/images/FC-DRS-008/04.webp",
+        "/images/FC-DRS-008/05.webp"
+      ],
+      "credit": {
+        "source": "pexels",
+        "author": "Pexels contributor",
+        "licence": "Pexels License",
+        "url": "https://www.pexels.com/photo/t-shirt-hanging-on-branch-18186107/"
+      },
+      "shortDescription": "A dress in cotton jersey, made for weekends.",
+      "longDescription": "A dress in cotton jersey, made for weekends. Dyed in small batches using low-water azo-free dyes, so colour varies very slightly between production runs.",
+      "attributes": {
+        "fabric": "Cotton Jersey",
+        "care": "Dry clean only",
+        "fit": "Bodycon",
+        "occasion": "Weekend",
+        "pattern": "Striped"
+      },
+      "rating": 3.7,
+      "reviewCount": 58,
+      "memberOnly": true,
+      "tags": [
+        "summer",
+        "office-edit"
+      ]
+    },
+    {
+      "id": "FC-DRS-009",
+      "name": "Empire-Waist Chiffon Dress",
+      "brand": "FashionCart",
+      "category": "dresses",
+      "price": 1499,
+      "mrp": 2699,
+      "colours": [
+        {
+          "name": "Rust",
+          "hex": "#A4462F"
+        },
+        {
+          "name": "Sage",
+          "hex": "#9BAE96"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stockBySize": {
+        "XS": 29,
+        "S": 4,
+        "M": 36,
+        "L": 0,
+        "XL": 17,
+        "XXL": 0
+      },
+      "thumbnailUrl": "/images/FC-DRS-009/thumb.webp",
+      "galleryUrls": [
+        "/images/FC-DRS-009/01.webp",
+        "/images/FC-DRS-009/02.webp",
+        "/images/FC-DRS-009/03.webp",
+        "/images/FC-DRS-009/04.webp",
+        "/images/FC-DRS-009/05.webp"
+      ],
+      "credit": {
+        "source": "pexels",
+        "author": "Pexels contributor",
+        "licence": "Pexels License",
+        "url": "https://www.pexels.com/photo/dresses-in-wardrobe-6833654/"
+      },
+      "shortDescription": "Lightweight chiffon dress with a bias-cut yoke, built for Indian summers.",
+      "longDescription": "Lightweight chiffon dress with a bias-cut yoke, built for Indian summers. Woven on handlooms in Bhagalpur; slight irregularities in the weave are characteristic of the process rather than defects.",
+      "attributes": {
+        "fabric": "Chiffon",
+        "care": "Wipe clean with a dry cloth",
+        "fit": "A-Line",
+        "occasion": "Everyday",
+        "pattern": "Solid"
+      },
+      "rating": 3.4,
+      "reviewCount": 34,
+      "memberOnly": false,
+      "tags": [
+        "sustainable"
+      ]
+    },
+    {
+      "id": "FC-DRS-010",
+      "name": "Cotton Poplin Skater Dress",
+      "brand": "FashionCart",
+      "category": "dresses",
+      "price": 3299,
+      "mrp": 4899,
+      "colours": [
+        {
+          "name": "Powder Blue",
+          "hex": "#A9C3D6"
+        },
+        {
+          "name": "Sand",
+          "hex": "#D8C7A9"
+        },
+        {
+          "name": "Olive",
+          "hex": "#6B6B47"
+        },
+        {
+          "name": "Teal",
+          "hex": "#1F6F6B"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stockBySize": {
+        "XS": 0,
+        "S": 30,
+        "M": 38,
+        "L": 32,
+        "XL": 7,
+        "XXL": 10
+      },
+      "thumbnailUrl": "/images/FC-DRS-010/thumb.webp",
+      "galleryUrls": [
+        "/images/FC-DRS-010/01.webp",
+        "/images/FC-DRS-010/02.webp",
+        "/images/FC-DRS-010/03.webp",
+        "/images/FC-DRS-010/04.webp"
+      ],
+      "credit": {
+        "source": "generated",
+        "author": "FashionCart demo asset pipeline",
+        "licence": "CC0-1.0",
+        "url": null
+      },
+      "shortDescription": "Striped dress in breathable cotton poplin, with a self-tie waist.",
+      "longDescription": "Striped dress in breathable cotton poplin, with a self-tie waist. Dyed in small batches using low-water azo-free dyes, so colour varies very slightly between production runs.",
+      "attributes": {
+        "fabric": "Cotton Poplin",
+        "care": "Wipe clean with a dry cloth",
+        "fit": "A-Line",
+        "occasion": "Occasion Wear",
+        "pattern": "Striped"
+      },
+      "rating": 4.9,
+      "reviewCount": 96,
+      "memberOnly": false,
+      "tags": [
+        "bestseller",
+        "sustainable"
+      ]
+    },
+    {
+      "id": "FC-FTW-001",
+      "name": "Leather Kolhapuri Sandal",
+      "brand": "FashionCart",
+      "category": "footwear",
+      "price": 3899,
+      "mrp": 4699,
+      "colours": [
+        {
+          "name": "Rust",
+          "hex": "#A4462F"
+        },
+        {
+          "name": "Maroon",
+          "hex": "#6E2639"
+        },
+        {
+          "name": "Olive",
+          "hex": "#6B6B47"
+        }
+      ],
+      "sizes": [
+        "UK6",
+        "UK7",
+        "UK8",
+        "UK9",
+        "UK10",
+        "UK11"
+      ],
+      "stockBySize": {
+        "UK6": 0,
+        "UK7": 39,
+        "UK8": 35,
+        "UK9": 1,
+        "UK10": 19,
+        "UK11": 3
+      },
+      "thumbnailUrl": "/images/FC-FTW-001/thumb.webp",
+      "galleryUrls": [
+        "/images/FC-FTW-001/01.webp",
+        "/images/FC-FTW-001/02.webp",
+        "/images/FC-FTW-001/03.webp",
+        "/images/FC-FTW-001/04.webp",
+        "/images/FC-FTW-001/05.webp"
+      ],
+      "credit": {
+        "source": "generated",
+        "author": "FashionCart demo asset pipeline",
+        "licence": "CC0-1.0",
+        "url": null
+      },
+      "shortDescription": "Full-Grain Leather sandal cut for everyday wear, finished with a hand-stitched welt.",
+      "longDescription": "Full-Grain Leather sandal cut for everyday wear, finished with a hand-stitched welt. Finished with a soft enzyme wash, which is why it feels broken-in from the first wear.",
+      "attributes": {
+        "fabric": "Full-Grain Leather",
+        "care": "Hand wash separately in cold water",
+        "fit": "Runs Narrow",
+        "occasion": "Everyday",
+        "pattern": "Solid"
+      },
+      "rating": 3.8,
+      "reviewCount": 12,
+      "memberOnly": false,
+      "tags": [
+        "bestseller",
+        "summer"
+      ]
+    },
+    {
+      "id": "FC-FTW-002",
+      "name": "Suede Chukka Boot",
+      "brand": "FashionCart",
+      "category": "footwear",
+      "price": 2399,
+      "mrp": 3599,
+      "colours": [
+        {
+          "name": "Charcoal",
+          "hex": "#3A3A3C"
+        },
+        {
+          "name": "Indigo",
+          "hex": "#33456B"
+        }
+      ],
+      "sizes": [
+        "UK6",
+        "UK7",
+        "UK8",
+        "UK9",
+        "UK10",
+        "UK11"
+      ],
+      "stockBySize": {
+        "UK6": 26,
+        "UK7": 2,
+        "UK8": 38,
+        "UK9": 24,
+        "UK10": 1,
+        "UK11": 20
+      },
+      "thumbnailUrl": "/images/FC-FTW-002/thumb.webp",
+      "galleryUrls": [
+        "/images/FC-FTW-002/01.webp",
+        "/images/FC-FTW-002/02.webp",
+        "/images/FC-FTW-002/03.webp"
+      ],
+      "credit": {
+        "source": "generated",
+        "author": "FashionCart demo asset pipeline",
+        "licence": "CC0-1.0",
+        "url": null
+      },
+      "shortDescription": "A boot in suede, made for festive dressing.",
+      "longDescription": "A boot in suede, made for festive dressing. Finished with a soft enzyme wash, which is why it feels broken-in from the first wear.",
+      "attributes": {
+        "fabric": "Suede",
+        "care": "Dry clean only",
+        "fit": "Runs Narrow",
+        "occasion": "Festive",
+        "pattern": "Textured"
+      },
+      "rating": 4.3,
+      "reviewCount": 141,
+      "memberOnly": false,
+      "tags": [
+        "bestseller",
+        "sustainable"
+      ]
+    },
+    {
+      "id": "FC-FTW-003",
+      "name": "Canvas Court Sneaker",
+      "brand": "FashionCart",
+      "category": "footwear",
+      "price": 1599,
+      "mrp": 2599,
+      "colours": [
+        {
+          "name": "Sand",
+          "hex": "#D8C7A9"
+        },
+        {
+          "name": "Charcoal",
+          "hex": "#3A3A3C"
+        }
+      ],
+      "sizes": [
+        "UK6",
+        "UK7",
+        "UK8",
+        "UK9",
+        "UK10",
+        "UK11"
+      ],
+      "stockBySize": {
+        "UK6": 2,
+        "UK7": 5,
+        "UK8": 31,
+        "UK9": 1,
+        "UK10": 34,
+        "UK11": 0
+      },
+      "thumbnailUrl": "/images/FC-FTW-003/thumb.webp",
+      "galleryUrls": [
+        "/images/FC-FTW-003/01.webp",
+        "/images/FC-FTW-003/02.webp",
+        "/images/FC-FTW-003/03.webp"
+      ],
+      "credit": {
+        "source": "pexels",
+        "author": "Pexels contributor",
+        "licence": "Pexels License",
+        "url": "https://www.pexels.com/photo/elegant-brown-leather-high-heel-shoes-on-display-36589772/"
+      },
+      "shortDescription": "Textured sneaker in cotton canvas, with a leather-lined heel counter.",
+      "longDescription": "Textured sneaker in cotton canvas, with a leather-lined heel counter. Designed in Bengaluru and produced in an independently audited facility in Noida.",
+      "attributes": {
+        "fabric": "Cotton Canvas",
+        "care": "Dry clean only",
+        "fit": "Runs Wide",
+        "occasion": "Weekend",
+        "pattern": "Textured"
+      },
+      "rating": 4.2,
+      "reviewCount": 34,
+      "memberOnly": false,
+      "tags": [
+        "handloom",
+        "bestseller",
+        "office-edit"
+      ]
+    },
+    {
+      "id": "FC-FTW-004",
+      "name": "Embroidered Juti Flat",
+      "brand": "FashionCart",
+      "category": "footwear",
+      "price": 3599,
+      "mrp": 4699,
+      "colours": [
+        {
+          "name": "Rust",
+          "hex": "#A4462F"
+        },
+        {
+          "name": "Ivory",
+          "hex": "#F3EFE6"
+        },
+        {
+          "name": "Indigo",
+          "hex": "#33456B"
+        }
+      ],
+      "sizes": [
+        "UK6",
+        "UK7",
+        "UK8",
+        "UK9",
+        "UK10",
+        "UK11"
+      ],
+      "stockBySize": {
+        "UK6": 30,
+        "UK7": 35,
+        "UK8": 27,
+        "UK9": 9,
+        "UK10": 0,
+        "UK11": 0
+      },
+      "thumbnailUrl": "/images/FC-FTW-004/thumb.webp",
+      "galleryUrls": [
+        "/images/FC-FTW-004/01.webp",
+        "/images/FC-FTW-004/02.webp",
+        "/images/FC-FTW-004/03.webp",
+        "/images/FC-FTW-004/04.webp",
+        "/images/FC-FTW-004/05.webp"
+      ],
+      "credit": {
+        "source": "generated",
+        "author": "FashionCart demo asset pipeline",
+        "licence": "CC0-1.0",
+        "url": null
+      },
+      "shortDescription": "A juti in embroidered silk, made for occasion dressing.",
+      "longDescription": "A juti in embroidered silk, made for occasion dressing. Dyed in small batches using low-water azo-free dyes, so colour varies very slightly between production runs.",
+      "attributes": {
+        "fabric": "Embroidered Silk",
+        "care": "Hand wash separately in cold water",
+        "fit": "Runs Narrow",
+        "occasion": "Occasion Wear",
+        "pattern": "Embroidered"
+      },
+      "rating": 3.6,
+      "reviewCount": 377,
+      "memberOnly": false,
+      "tags": [
+        "bestseller"
+      ]
+    },
+    {
+      "id": "FC-FTW-005",
+      "name": "Block Heel Sandal",
+      "brand": "FashionCart",
+      "category": "footwear",
+      "price": 4399,
+      "mrp": 6999,
+      "colours": [
+        {
+          "name": "Marigold",
+          "hex": "#E8A33D"
+        },
+        {
+          "name": "Black",
+          "hex": "#1C1C1E"
+        },
+        {
+          "name": "Indigo",
+          "hex": "#33456B"
+        }
+      ],
+      "sizes": [
+        "UK6",
+        "UK7",
+        "UK8",
+        "UK9",
+        "UK10",
+        "UK11"
+      ],
+      "stockBySize": {
+        "UK6": 38,
+        "UK7": 14,
+        "UK8": 0,
+        "UK9": 2,
+        "UK10": 0,
+        "UK11": 0
+      },
+      "thumbnailUrl": "/images/FC-FTW-005/thumb.webp",
+      "galleryUrls": [
+        "/images/FC-FTW-005/01.webp",
+        "/images/FC-FTW-005/02.webp",
+        "/images/FC-FTW-005/03.webp",
+        "/images/FC-FTW-005/04.webp",
+        "/images/FC-FTW-005/05.webp"
+      ],
+      "credit": {
+        "source": "generated",
+        "author": "FashionCart demo asset pipeline",
+        "licence": "CC0-1.0",
+        "url": null
+      },
+      "shortDescription": "Full-Grain Leather sandal cut for weekends, finished with a hand-stitched welt.",
+      "longDescription": "Full-Grain Leather sandal cut for weekends, finished with a hand-stitched welt. Finished with a soft enzyme wash, which is why it feels broken-in from the first wear.",
+      "attributes": {
+        "fabric": "Full-Grain Leather",
+        "care": "Hand wash separately in cold water",
+        "fit": "True to Size",
+        "occasion": "Weekend",
+        "pattern": "Solid"
+      },
+      "rating": 3.9,
+      "reviewCount": 58,
+      "memberOnly": false,
+      "tags": [
+        "limited"
+      ]
+    },
+    {
+      "id": "FC-FTW-006",
+      "name": "Mesh Running Trainer",
+      "brand": "FashionCart",
+      "category": "footwear",
+      "price": 4299,
+      "mrp": 5999,
+      "colours": [
+        {
+          "name": "Maroon",
+          "hex": "#6E2639"
+        },
+        {
+          "name": "Rust",
+          "hex": "#A4462F"
+        },
+        {
+          "name": "Teal",
+          "hex": "#1F6F6B"
+        }
+      ],
+      "sizes": [
+        "UK6",
+        "UK7",
+        "UK8",
+        "UK9",
+        "UK10",
+        "UK11"
+      ],
+      "stockBySize": {
+        "UK6": 0,
+        "UK7": 5,
+        "UK8": 22,
+        "UK9": 7,
+        "UK10": 15,
+        "UK11": 0
+      },
+      "thumbnailUrl": "/images/FC-FTW-006/thumb.webp",
+      "galleryUrls": [
+        "/images/FC-FTW-006/01.webp",
+        "/images/FC-FTW-006/02.webp",
+        "/images/FC-FTW-006/03.webp"
+      ],
+      "credit": {
+        "source": "pexels",
+        "author": "Pexels contributor",
+        "licence": "Pexels License",
+        "url": "https://www.pexels.com/photo/elegant-brown-leather-heels-on-display-36589768/"
+      },
+      "shortDescription": "Solid trainer in recycled mesh, with a stacked block heel.",
+      "longDescription": "Solid trainer in recycled mesh, with a stacked block heel. Designed in Bengaluru and produced in an independently audited facility in Noida.",
+      "attributes": {
+        "fabric": "Recycled Mesh",
+        "care": "Hand wash separately in cold water",
+        "fit": "Runs Wide",
+        "occasion": "Occasion Wear",
+        "pattern": "Solid"
+      },
+      "rating": 4.6,
+      "reviewCount": 12,
+      "memberOnly": false,
+      "tags": [
+        "handloom",
+        "festive-edit",
+        "summer"
+      ]
+    },
+    {
+      "id": "FC-FTW-007",
+      "name": "Penny Loafer",
+      "brand": "FashionCart",
+      "category": "footwear",
+      "price": 2599,
+      "mrp": 3599,
+      "colours": [
+        {
+          "name": "Maroon",
+          "hex": "#6E2639"
+        },
+        {
+          "name": "Black",
+          "hex": "#1C1C1E"
+        },
+        {
+          "name": "Teal",
+          "hex": "#1F6F6B"
+        },
+        {
+          "name": "Marigold",
+          "hex": "#E8A33D"
+        }
+      ],
+      "sizes": [
+        "UK6",
+        "UK7",
+        "UK8",
+        "UK9",
+        "UK10",
+        "UK11"
+      ],
+      "stockBySize": {
+        "UK6": 0,
+        "UK7": 10,
+        "UK8": 3,
+        "UK9": 18,
+        "UK10": 10,
+        "UK11": 4
+      },
+      "thumbnailUrl": "/images/FC-FTW-007/thumb.webp",
+      "galleryUrls": [
+        "/images/FC-FTW-007/01.webp",
+        "/images/FC-FTW-007/02.webp",
+        "/images/FC-FTW-007/03.webp"
+      ],
+      "credit": {
+        "source": "generated",
+        "author": "FashionCart demo asset pipeline",
+        "licence": "CC0-1.0",
+        "url": null
+      },
+      "shortDescription": "Solid loafer in full-grain leather, with a padded topline.",
+      "longDescription": "Solid loafer in full-grain leather, with a padded topline. Woven on handlooms in Bhagalpur; slight irregularities in the weave are characteristic of the process rather than defects.",
+      "attributes": {
+        "fabric": "Full-Grain Leather",
+        "care": "Dry clean only",
+        "fit": "Runs Wide",
+        "occasion": "Festive",
+        "pattern": "Solid"
+      },
+      "rating": 4.9,
+      "reviewCount": 512,
+      "memberOnly": false,
+      "tags": [
+        "festive-edit"
+      ]
+    },
+    {
+      "id": "FC-FTW-008",
+      "name": "Espadrille Slip-On",
+      "brand": "FashionCart",
+      "category": "footwear",
+      "price": 2199,
+      "mrp": 3499,
+      "colours": [
+        {
+          "name": "Sage",
+          "hex": "#9BAE96"
+        },
+        {
+          "name": "Olive",
+          "hex": "#6B6B47"
+        },
+        {
+          "name": "Black",
+          "hex": "#1C1C1E"
+        }
+      ],
+      "sizes": [
+        "UK6",
+        "UK7",
+        "UK8",
+        "UK9",
+        "UK10",
+        "UK11"
+      ],
+      "stockBySize": {
+        "UK6": 40,
+        "UK7": 28,
+        "UK8": 29,
+        "UK9": 0,
+        "UK10": 1,
+        "UK11": 18
+      },
+      "thumbnailUrl": "/images/FC-FTW-008/thumb.webp",
+      "galleryUrls": [
+        "/images/FC-FTW-008/01.webp",
+        "/images/FC-FTW-008/02.webp",
+        "/images/FC-FTW-008/03.webp",
+        "/images/FC-FTW-008/04.webp",
+        "/images/FC-FTW-008/05.webp"
+      ],
+      "credit": {
+        "source": "generated",
+        "author": "FashionCart demo asset pipeline",
+        "licence": "CC0-1.0",
+        "url": null
+      },
+      "shortDescription": "Textured espadrille in jute and canvas, with a non-marking rubber outsole.",
+      "longDescription": "Textured espadrille in jute and canvas, with a non-marking rubber outsole. Finished with a soft enzyme wash, which is why it feels broken-in from the first wear.",
+      "attributes": {
+        "fabric": "Jute and Canvas",
+        "care": "Machine wash cold, tumble dry low",
+        "fit": "Runs Narrow",
+        "occasion": "Weekend",
+        "pattern": "Textured"
+      },
+      "rating": 4.1,
+      "reviewCount": 96,
+      "memberOnly": false,
+      "tags": [
+        "festive-edit",
+        "new-in"
+      ]
+    },
+    {
+      "id": "FC-FTW-009",
+      "name": "Ankle-Strap Wedge",
+      "brand": "FashionCart",
+      "category": "footwear",
+      "price": 2899,
+      "mrp": 4599,
+      "colours": [
+        {
+          "name": "Powder Blue",
+          "hex": "#A9C3D6"
+        },
+        {
+          "name": "Sage",
+          "hex": "#9BAE96"
+        }
+      ],
+      "sizes": [
+        "UK6",
+        "UK7",
+        "UK8",
+        "UK9",
+        "UK10",
+        "UK11"
+      ],
+      "stockBySize": {
+        "UK6": 1,
+        "UK7": 5,
+        "UK8": 29,
+        "UK9": 25,
+        "UK10": 19,
+        "UK11": 11
+      },
+      "thumbnailUrl": "/images/FC-FTW-009/thumb.webp",
+      "galleryUrls": [
+        "/images/FC-FTW-009/01.webp",
+        "/images/FC-FTW-009/02.webp",
+        "/images/FC-FTW-009/03.webp"
+      ],
+      "credit": {
+        "source": "generated",
+        "author": "FashionCart demo asset pipeline",
+        "licence": "CC0-1.0",
+        "url": null
+      },
+      "shortDescription": "A wedge in full-grain leather, made for festive dressing.",
+      "longDescription": "A wedge in full-grain leather, made for festive dressing. Designed in Bengaluru and produced in an independently audited facility in Noida.",
+      "attributes": {
+        "fabric": "Full-Grain Leather",
+        "care": "Dry clean only",
+        "fit": "Runs Narrow",
+        "occasion": "Festive",
+        "pattern": "Solid"
+      },
+      "rating": 4.4,
+      "reviewCount": 34,
+      "memberOnly": false,
+      "tags": [
+        "handloom",
+        "office-edit",
+        "summer"
+      ]
+    },
+    {
+      "id": "FC-FTW-010",
+      "name": "Chunky Sole Sneaker",
+      "brand": "FashionCart",
+      "category": "footwear",
+      "price": 2799,
+      "mrp": 4999,
+      "colours": [
+        {
+          "name": "Charcoal",
+          "hex": "#3A3A3C"
+        },
+        {
+          "name": "Olive",
+          "hex": "#6B6B47"
+        },
+        {
+          "name": "Indigo",
+          "hex": "#33456B"
+        },
+        {
+          "name": "Sand",
+          "hex": "#D8C7A9"
+        }
+      ],
+      "sizes": [
+        "UK6",
+        "UK7",
+        "UK8",
+        "UK9",
+        "UK10",
+        "UK11"
+      ],
+      "stockBySize": {
+        "UK6": 21,
+        "UK7": 31,
+        "UK8": 39,
+        "UK9": 23,
+        "UK10": 10,
+        "UK11": 9
+      },
+      "thumbnailUrl": "/images/FC-FTW-010/thumb.webp",
+      "galleryUrls": [
+        "/images/FC-FTW-010/01.webp",
+        "/images/FC-FTW-010/02.webp",
+        "/images/FC-FTW-010/03.webp",
+        "/images/FC-FTW-010/04.webp"
+      ],
+      "credit": {
+        "source": "generated",
+        "author": "FashionCart demo asset pipeline",
+        "licence": "CC0-1.0",
+        "url": null
+      },
+      "shortDescription": "Textured sneaker in recycled mesh, with a leather-lined heel counter.",
+      "longDescription": "Textured sneaker in recycled mesh, with a leather-lined heel counter. Designed in Bengaluru and produced in an independently audited facility in Noida.",
+      "attributes": {
+        "fabric": "Recycled Mesh",
+        "care": "Machine wash cold, tumble dry low",
+        "fit": "Runs Wide",
+        "occasion": "Travel",
+        "pattern": "Textured"
+      },
+      "rating": 3.7,
+      "reviewCount": 34,
+      "memberOnly": false,
+      "tags": [
+        "limited",
+        "office-edit",
+        "handloom"
+      ]
+    },
+    {
+      "id": "FC-ACC-001",
+      "name": "Woven Leather Belt",
+      "brand": "FashionCart",
+      "category": "accessories",
+      "price": 2799,
+      "mrp": 4199,
+      "colours": [
+        {
+          "name": "Charcoal",
+          "hex": "#3A3A3C"
+        },
+        {
+          "name": "Black",
+          "hex": "#1C1C1E"
+        },
+        {
+          "name": "Indigo",
+          "hex": "#33456B"
+        },
+        {
+          "name": "Sage",
+          "hex": "#9BAE96"
+        }
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "stockBySize": {
+        "S": 0,
+        "M": 16,
+        "L": 8,
+        "XL": 3
+      },
+      "thumbnailUrl": "/images/FC-ACC-001/thumb.webp",
+      "galleryUrls": [
+        "/images/FC-ACC-001/01.webp",
+        "/images/FC-ACC-001/02.webp",
+        "/images/FC-ACC-001/03.webp"
+      ],
+      "credit": {
+        "source": "generated",
+        "author": "FashionCart demo asset pipeline",
+        "licence": "CC0-1.0",
+        "url": null
+      },
+      "shortDescription": "Full-Grain Leather belt cut for weekends, finished with an antique-finish clasp.",
+      "longDescription": "Full-Grain Leather belt cut for weekends, finished with an antique-finish clasp. Finished with a soft enzyme wash, which is why it feels broken-in from the first wear.",
+      "attributes": {
+        "fabric": "Full-Grain Leather",
+        "care": "Machine wash cold, tumble dry low",
+        "fit": "Adjustable",
+        "occasion": "Weekend",
+        "pattern": "Solid"
+      },
+      "rating": 4.6,
+      "reviewCount": 12,
+      "memberOnly": false,
+      "tags": [
+        "summer",
+        "new-in"
+      ]
+    },
+    {
+      "id": "FC-ACC-002",
+      "name": "Silk-Blend Scarf",
+      "brand": "FashionCart",
+      "category": "accessories",
+      "price": 1199,
+      "mrp": 1599,
+      "colours": [
+        {
+          "name": "Charcoal",
+          "hex": "#3A3A3C"
+        },
+        {
+          "name": "Rust",
+          "hex": "#A4462F"
+        }
+      ],
+      "sizes": [
+        "One Size"
+      ],
+      "stockBySize": {
+        "One Size": 35
+      },
+      "thumbnailUrl": "/images/FC-ACC-002/thumb.webp",
+      "galleryUrls": [
+        "/images/FC-ACC-002/01.webp",
+        "/images/FC-ACC-002/02.webp",
+        "/images/FC-ACC-002/03.webp",
+        "/images/FC-ACC-002/04.webp",
+        "/images/FC-ACC-002/05.webp"
+      ],
+      "credit": {
+        "source": "generated",
+        "author": "FashionCart demo asset pipeline",
+        "licence": "CC0-1.0",
+        "url": null
+      },
+      "shortDescription": "Silk Blend scarf cut for festive dressing, finished with an edge-painted trim.",
+      "longDescription": "Silk Blend scarf cut for festive dressing, finished with an edge-painted trim. Finished with a soft enzyme wash, which is why it feels broken-in from the first wear.",
+      "attributes": {
+        "fabric": "Silk Blend",
+        "care": "Hand wash separately in cold water",
+        "fit": "Adjustable",
+        "occasion": "Festive",
+        "pattern": "Solid"
+      },
+      "rating": 3.5,
+      "reviewCount": 377,
+      "memberOnly": false,
+      "tags": [
+        "summer",
+        "limited"
+      ]
+    },
+    {
+      "id": "FC-ACC-003",
+      "name": "Jute Tote Bag",
+      "brand": "FashionCart",
+      "category": "accessories",
+      "price": 1199,
+      "mrp": 1399,
+      "colours": [
+        {
+          "name": "Maroon",
+          "hex": "#6E2639"
+        },
+        {
+          "name": "Black",
+          "hex": "#1C1C1E"
+        },
+        {
+          "name": "Teal",
+          "hex": "#1F6F6B"
+        }
+      ],
+      "sizes": [
+        "One Size"
+      ],
+      "stockBySize": {
+        "One Size": 3
+      },
+      "thumbnailUrl": "/images/FC-ACC-003/thumb.webp",
+      "galleryUrls": [
+        "/images/FC-ACC-003/01.webp",
+        "/images/FC-ACC-003/02.webp",
+        "/images/FC-ACC-003/03.webp",
+        "/images/FC-ACC-003/04.webp"
+      ],
+      "credit": {
+        "source": "generated",
+        "author": "FashionCart demo asset pipeline",
+        "licence": "CC0-1.0",
+        "url": null
+      },
+      "shortDescription": "A tote bag in jute, made for the office.",
+      "longDescription": "A tote bag in jute, made for the office. Finished with a soft enzyme wash, which is why it feels broken-in from the first wear.",
+      "attributes": {
+        "fabric": "Jute",
+        "care": "Machine wash cold, tumble dry low",
+        "fit": "One Size",
+        "occasion": "Workwear",
+        "pattern": "Solid"
+      },
+      "rating": 3.7,
+      "reviewCount": 141,
+      "memberOnly": false,
+      "tags": [
+        "limited",
+        "new-in"
+      ]
+    },
+    {
+      "id": "FC-ACC-004",
+      "name": "Beaded Statement Necklace",
+      "brand": "FashionCart",
+      "category": "accessories",
+      "price": 1299,
+      "mrp": 1599,
+      "colours": [
+        {
+          "name": "Marigold",
+          "hex": "#E8A33D"
+        },
+        {
+          "name": "Charcoal",
+          "hex": "#3A3A3C"
+        }
+      ],
+      "sizes": [
+        "One Size"
+      ],
+      "stockBySize": {
+        "One Size": 3
+      },
+      "thumbnailUrl": "/images/FC-ACC-004/thumb.webp",
+      "galleryUrls": [
+        "/images/FC-ACC-004/01.webp",
+        "/images/FC-ACC-004/02.webp",
+        "/images/FC-ACC-004/03.webp",
+        "/images/FC-ACC-004/04.webp",
+        "/images/FC-ACC-004/05.webp"
+      ],
+      "credit": {
+        "source": "generated",
+        "author": "FashionCart demo asset pipeline",
+        "licence": "CC0-1.0",
+        "url": null
+      },
+      "shortDescription": "A necklace in cotton canvas, made for festive dressing.",
+      "longDescription": "A necklace in cotton canvas, made for festive dressing. Cut and stitched in a family-run unit in Tiruppur, with a pre-shrunk finish so it holds its shape past the first few washes.",
+      "attributes": {
+        "fabric": "Cotton Canvas",
+        "care": "Hand wash separately in cold water",
+        "fit": "One Size",
+        "occasion": "Festive",
+        "pattern": "Embellished"
+      },
+      "rating": 3.8,
+      "reviewCount": 512,
+      "memberOnly": false,
+      "tags": [
+        "festive-edit"
+      ]
+    },
+    {
+      "id": "FC-ACC-005",
+      "name": "Cotton Canvas Cap",
+      "brand": "FashionCart",
+      "category": "accessories",
+      "price": 699,
+      "mrp": 999,
+      "colours": [
+        {
+          "name": "Sand",
+          "hex": "#D8C7A9"
+        },
+        {
+          "name": "Powder Blue",
+          "hex": "#A9C3D6"
+        }
+      ],
+      "sizes": [
+        "One Size"
+      ],
+      "stockBySize": {
+        "One Size": 34
+      },
+      "thumbnailUrl": "/images/FC-ACC-005/thumb.webp",
+      "galleryUrls": [
+        "/images/FC-ACC-005/01.webp",
+        "/images/FC-ACC-005/02.webp",
+        "/images/FC-ACC-005/03.webp",
+        "/images/FC-ACC-005/04.webp"
+      ],
+      "credit": {
+        "source": "generated",
+        "author": "FashionCart demo asset pipeline",
+        "licence": "CC0-1.0",
+        "url": null
+      },
+      "shortDescription": "A cap in cotton canvas, made for travel.",
+      "longDescription": "A cap in cotton canvas, made for travel. Woven on handlooms in Bhagalpur; slight irregularities in the weave are characteristic of the process rather than defects.",
+      "attributes": {
+        "fabric": "Cotton Canvas",
+        "care": "Machine wash cold, tumble dry low",
+        "fit": "Adjustable",
+        "occasion": "Travel",
+        "pattern": "Solid"
+      },
+      "rating": 3.8,
+      "reviewCount": 377,
+      "memberOnly": false,
+      "tags": [
+        "new-in",
+        "office-edit",
+        "limited"
+      ]
+    },
+    {
+      "id": "FC-ACC-006",
+      "name": "Oxidised Silver Jhumka",
+      "brand": "FashionCart",
+      "category": "accessories",
+      "price": 899,
+      "mrp": 1399,
+      "colours": [
+        {
+          "name": "Sand",
+          "hex": "#D8C7A9"
+        },
+        {
+          "name": "Indigo",
+          "hex": "#33456B"
+        },
+        {
+          "name": "Rust",
+          "hex": "#A4462F"
+        },
+        {
+          "name": "Ivory",
+          "hex": "#F3EFE6"
+        }
+      ],
+      "sizes": [
+        "One Size"
+      ],
+      "stockBySize": {
+        "One Size": 0
+      },
+      "thumbnailUrl": "/images/FC-ACC-006/thumb.webp",
+      "galleryUrls": [
+        "/images/FC-ACC-006/01.webp",
+        "/images/FC-ACC-006/02.webp",
+        "/images/FC-ACC-006/03.webp",
+        "/images/FC-ACC-006/04.webp",
+        "/images/FC-ACC-006/05.webp"
+      ],
+      "credit": {
+        "source": "generated",
+        "author": "FashionCart demo asset pipeline",
+        "licence": "CC0-1.0",
+        "url": null
+      },
+      "shortDescription": "A jhumka in sterling silver, made for occasion dressing.",
+      "longDescription": "A jhumka in sterling silver, made for occasion dressing. Designed in Bengaluru and produced in an independently audited facility in Noida.",
+      "attributes": {
+        "fabric": "Sterling Silver",
+        "care": "Machine wash gentle, line dry in shade",
+        "fit": "Adjustable",
+        "occasion": "Occasion Wear",
+        "pattern": "Solid"
+      },
+      "rating": 3.4,
+      "reviewCount": 512,
+      "memberOnly": false,
+      "tags": [
+        "bestseller",
+        "summer",
+        "limited"
+      ]
+    },
+    {
+      "id": "FC-ACC-007",
+      "name": "Leather Card Holder",
+      "brand": "FashionCart",
+      "category": "accessories",
+      "price": 999,
+      "mrp": 1499,
+      "colours": [
+        {
+          "name": "Black",
+          "hex": "#1C1C1E"
+        },
+        {
+          "name": "Olive",
+          "hex": "#6B6B47"
+        },
+        {
+          "name": "Maroon",
+          "hex": "#6E2639"
+        }
+      ],
+      "sizes": [
+        "One Size"
+      ],
+      "stockBySize": {
+        "One Size": 5
+      },
+      "thumbnailUrl": "/images/FC-ACC-007/thumb.webp",
+      "galleryUrls": [
+        "/images/FC-ACC-007/01.webp",
+        "/images/FC-ACC-007/02.webp",
+        "/images/FC-ACC-007/03.webp",
+        "/images/FC-ACC-007/04.webp"
+      ],
+      "credit": {
+        "source": "generated",
+        "author": "FashionCart demo asset pipeline",
+        "licence": "CC0-1.0",
+        "url": null
+      },
+      "shortDescription": "A card holder in full-grain leather, made for travel.",
+      "longDescription": "A card holder in full-grain leather, made for travel. Dyed in small batches using low-water azo-free dyes, so colour varies very slightly between production runs.",
+      "attributes": {
+        "fabric": "Full-Grain Leather",
+        "care": "Dry clean only",
+        "fit": "One Size",
+        "occasion": "Travel",
+        "pattern": "Solid"
+      },
+      "rating": 4.4,
+      "reviewCount": 12,
+      "memberOnly": true,
+      "tags": [
+        "limited"
+      ]
+    },
+    {
+      "id": "FC-ACC-008",
+      "name": "Bandhani Dupatta",
+      "brand": "FashionCart",
+      "category": "accessories",
+      "price": 899,
+      "mrp": 1399,
+      "colours": [
+        {
+          "name": "Teal",
+          "hex": "#1F6F6B"
+        },
+        {
+          "name": "Rust",
+          "hex": "#A4462F"
+        },
+        {
+          "name": "Ivory",
+          "hex": "#F3EFE6"
+        }
+      ],
+      "sizes": [
+        "One Size"
+      ],
+      "stockBySize": {
+        "One Size": 1
+      },
+      "thumbnailUrl": "/images/FC-ACC-008/thumb.webp",
+      "galleryUrls": [
+        "/images/FC-ACC-008/01.webp",
+        "/images/FC-ACC-008/02.webp",
+        "/images/FC-ACC-008/03.webp",
+        "/images/FC-ACC-008/04.webp",
+        "/images/FC-ACC-008/05.webp"
+      ],
+      "credit": {
+        "source": "generated",
+        "author": "FashionCart demo asset pipeline",
+        "licence": "CC0-1.0",
+        "url": null
+      },
+      "shortDescription": "A dupatta in cotton voile, made for travel.",
+      "longDescription": "A dupatta in cotton voile, made for travel. Finished with a soft enzyme wash, which is why it feels broken-in from the first wear.",
+      "attributes": {
+        "fabric": "Cotton Voile",
+        "care": "Wipe clean with a dry cloth",
+        "fit": "Adjustable",
+        "occasion": "Travel",
+        "pattern": "Bandhani"
+      },
+      "rating": 3.9,
+      "reviewCount": 141,
+      "memberOnly": false,
+      "tags": [
+        "limited",
+        "bestseller",
+        "sustainable"
+      ]
+    },
+    {
+      "id": "FC-ACC-009",
+      "name": "Analog Strap Watch",
+      "brand": "FashionCart",
+      "category": "accessories",
+      "price": 799,
+      "mrp": 1199,
+      "colours": [
+        {
+          "name": "Sage",
+          "hex": "#9BAE96"
+        },
+        {
+          "name": "Maroon",
+          "hex": "#6E2639"
+        }
+      ],
+      "sizes": [
+        "One Size"
+      ],
+      "stockBySize": {
+        "One Size": 21
+      },
+      "thumbnailUrl": "/images/FC-ACC-009/thumb.webp",
+      "galleryUrls": [
+        "/images/FC-ACC-009/01.webp",
+        "/images/FC-ACC-009/02.webp",
+        "/images/FC-ACC-009/03.webp"
+      ],
+      "credit": {
+        "source": "generated",
+        "author": "FashionCart demo asset pipeline",
+        "licence": "CC0-1.0",
+        "url": null
+      },
+      "shortDescription": "A watch in full-grain leather, made for travel.",
+      "longDescription": "A watch in full-grain leather, made for travel. Cut and stitched in a family-run unit in Tiruppur, with a pre-shrunk finish so it holds its shape past the first few washes.",
+      "attributes": {
+        "fabric": "Full-Grain Leather",
+        "care": "Dry clean only",
+        "fit": "Adjustable",
+        "occasion": "Travel",
+        "pattern": "Textured"
+      },
+      "rating": 4.2,
+      "reviewCount": 2411,
+      "memberOnly": false,
+      "tags": [
+        "new-in",
+        "sustainable"
+      ]
+    },
+    {
+      "id": "FC-ACC-010",
+      "name": "Acetate Sunglasses",
+      "brand": "FashionCart",
+      "category": "accessories",
+      "price": 999,
+      "mrp": 1599,
+      "colours": [
+        {
+          "name": "Black",
+          "hex": "#1C1C1E"
+        },
+        {
+          "name": "Maroon",
+          "hex": "#6E2639"
+        }
+      ],
+      "sizes": [
+        "One Size"
+      ],
+      "stockBySize": {
+        "One Size": 6
+      },
+      "thumbnailUrl": "/images/FC-ACC-010/thumb.webp",
+      "galleryUrls": [
+        "/images/FC-ACC-010/01.webp",
+        "/images/FC-ACC-010/02.webp",
+        "/images/FC-ACC-010/03.webp"
+      ],
+      "credit": {
+        "source": "generated",
+        "author": "FashionCart demo asset pipeline",
+        "licence": "CC0-1.0",
+        "url": null
+      },
+      "shortDescription": "A pair of sunglasses in acetate, made for the office.",
+      "longDescription": "A pair of sunglasses in acetate, made for the office. Finished with a soft enzyme wash, which is why it feels broken-in from the first wear.",
+      "attributes": {
+        "fabric": "Acetate",
+        "care": "Machine wash cold, tumble dry low",
+        "fit": "One Size",
+        "occasion": "Workwear",
+        "pattern": "Textured"
+      },
+      "rating": 4.7,
+      "reviewCount": 34,
+      "memberOnly": false,
+      "tags": [
+        "sustainable"
+      ]
+    }
+  ]
+}

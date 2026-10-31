@@ -1,0 +1,36 @@
+{
+  "name": "@fashioncart/mcp-server",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "FashionCart MCP Apps connector. Stateless streamable HTTP, MCP core 2025-11-25, MCP Apps extension 2026-01-26.",
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "build": "tsc -p tsconfig.build.json",
+    "dev": "cross-env NODE_ENV=development tsx watch src/main.ts",
+    "start": "node dist/main.js",
+    "test": "tsx --test src/**/*.test.ts",
+    "predeploy": "node scripts/copy-data.mjs",
+    "deploy": "npm run predeploy && vercel deploy --prod",
+    "deploy:preview": "npm run predeploy && vercel deploy"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/ext-apps": "^1.7.5",
+    "@modelcontextprotocol/sdk": "^1.30.0",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "zod": "^4.1.13"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.19",
+    "@types/express": "^5.0.0",
+    "@types/node": "^22.10.0",
+    "cross-env": "^10.1.0",
+    "tsx": "^4.19.2",
+    "typescript": "^5.9.3",
+    "vercel": "^65.9.0"
+  },
+  "engines": {
+    "node": "24.x"
+  }
+}

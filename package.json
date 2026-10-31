@@ -1,0 +1,24 @@
+{
+  "name": "fashioncart",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "FashionCart - a Claude MCP App demo storefront. Conversational product browsing with a handoff to an external merchant checkout.",
+  "workspaces": [
+    "packages/mcp-server",
+    "packages/widget",
+    "packages/host-harness",
+    "packages/merchant"
+  ],
+  "scripts": {
+    "build:widget": "npm --prefix packages/widget run build",
+    "build:server": "npm --prefix packages/mcp-server run typecheck",
+    "build": "npm run build:widget && npm run build:server",
+    "dev": "npm run build:widget && npm --prefix packages/mcp-server run dev",
+    "harness": "powershell -ExecutionPolicy Bypass -File ./scripts/host.ps1",
+    "test": "npm --prefix packages/mcp-server run test",
+    "deploy": "npm run build:widget && npm --prefix packages/mcp-server run deploy",
+    "catalog": "python scripts/generate_catalog.py",
+    "images": "python scripts/build_images.py --source pexels"
+  }
+}

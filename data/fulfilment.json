@@ -1,0 +1,85 @@
+{
+  "feedVersion": "1.0",
+  "locations": [
+    {
+      "pincode": "400013",
+      "city": "Mumbai",
+      "area": "Lower Parel",
+      "storeName": "FashionCart Lower Parel",
+      "hasStore": true,
+      "etaDays": 1
+    },
+    {
+      "pincode": "110016",
+      "city": "New Delhi",
+      "area": "Hauz Khas",
+      "storeName": "FashionCart Hauz Khas",
+      "hasStore": true,
+      "etaDays": 1
+    },
+    {
+      "pincode": "560038",
+      "city": "Bengaluru",
+      "area": "Indiranagar",
+      "storeName": "FashionCart Indiranagar",
+      "hasStore": true,
+      "etaDays": 1
+    },
+    {
+      "pincode": "600028",
+      "city": "Chennai",
+      "area": "R.A. Puram",
+      "storeName": "FashionCart R.A. Puram",
+      "hasStore": true,
+      "etaDays": 2
+    },
+    {
+      "pincode": "500034",
+      "city": "Hyderabad",
+      "area": "Banjara Hills",
+      "storeName": "FashionCart Banjara Hills",
+      "hasStore": true,
+      "etaDays": 2
+    },
+    {
+      "pincode": "700019",
+      "city": "Kolkata",
+      "area": "Ballygunge",
+      "storeName": "FashionCart Ballygunge",
+      "hasStore": true,
+      "etaDays": 2
+    },
+    {
+      "pincode": "411001",
+      "city": "Pune",
+      "area": "Camp",
+      "storeName": "FashionCart Camp",
+      "hasStore": true,
+      "etaDays": 3
+    },
+    {
+      "pincode": "380009",
+      "city": "Ahmedabad",
+      "area": "Navrangpura",
+      "storeName": null,
+      "hasStore": false,
+      "etaDays": 4
+    },
+    {
+      "pincode": "302001",
+      "city": "Jaipur",
+      "area": "MI Road",
+      "storeName": null,
+      "hasStore": false,
+      "etaDays": 4
+    },
+    {
+      "pincode": "682016",
+      "city": "Kochi",
+      "area": "Panampilly Nagar",
+      "storeName": null,
+      "hasStore": false,
+      "etaDays": 5
+    }
+  ]
+}

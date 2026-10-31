@@ -1,0 +1,22 @@
+{
+  "name": "@fashioncart/widget",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "FashionCart MCP App widget. Built to a single self-contained HTML file that the MCP server returns as the ui:// resource.",
+  "scripts": {
+    "build": "vite build",
+    "watch": "vite build --watch",
+    "typecheck": "tsc --noEmit",
+    "preview": "npm run build && node scripts/build-preview.mjs"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/ext-apps": "^1.7.5"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "typescript": "^5.9.3",
+    "vite": "^6.0.0",
+    "vite-plugin-singlefile": "^2.3.0"
+  }
+}

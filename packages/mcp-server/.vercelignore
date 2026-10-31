@@ -1,0 +1,12 @@
+# Vercel's default ignore list covers only .env.local and .env.*.local - a plain .env IS
+# uploaded, and deployment source is readable, so exclude it explicitly.
+.env
+.env.production
+.env.*
+
+node_modules
+dist
+
+# Do NOT exclude tsconfig*.json here. An earlier version excluded tsconfig.build.json, which
+# the build script passes to tsc with -p; the file was missing on the builder and the deploy
+# failed with `Command "npm run build" exited with 1`. Config files the build reads must ship.

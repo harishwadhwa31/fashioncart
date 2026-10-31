@@ -1,0 +1,32 @@
+# Dependencies and build output
+node_modules/
+dist/
+*.tsbuildinfo
+__pycache__/
+*.pyc
+
+# Staged copies of data/ written by each package's predeploy step
+packages/mcp-server/data/
+packages/merchant/data/
+
+# Secrets and local environment. Commit .env.example only.
+.env
+.env.*
+!.env.example
+.secrets/
+
+# Vercel CLI link files (team and project IDs)
+.vercel/
+
+# Caches and local tooling output
+.cache/
+.measure/
+.vendor/
+*.log
+npm-debug.log*
+
+# Editors and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
